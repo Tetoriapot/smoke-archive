@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+.qa/
+.pnpm-store/
+test-results/
+outputs/
+.sites-runtime/

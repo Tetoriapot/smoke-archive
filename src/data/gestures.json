@@ -1,0 +1,230 @@
+[
+  {
+    "id": "holding-cigarette",
+    "title": "指の置き方を変える",
+    "category": "cigarette",
+    "tags": [
+      "持ち方",
+      "手元",
+      "会話"
+    ],
+    "description": "未確認。指の置き方と職業・性格を結び付ける一般的な根拠は収録していない。",
+    "confidence": "unverified",
+    "staging": "普段は二本の指で持つ人物が、話を聞く間だけ持ち直す。癖を先に示しておくと、場面での変化を描ける。",
+    "sourceIds": []
+  },
+  {
+    "id": "lighting-cigar",
+    "title": "葉巻を回しながら火を確認する",
+    "category": "cigar",
+    "tags": [
+      "火をつける",
+      "手元",
+      "時間"
+    ],
+    "description": "Habanosの説明には、葉巻を回しながら端面の点火を確認する動作がある。",
+    "confidence": "confirmed",
+    "staging": "返事を待つ間に点火の準備をする人物と、話を優先して手を止める人物を対比する。",
+    "sourceIds": [
+      "gesture-habanos"
+    ]
+  },
+  {
+    "id": "ash-cigar",
+    "title": "灰を落とす間を描く",
+    "category": "cigar",
+    "tags": [
+      "灰の落とし方",
+      "灰皿",
+      "会話"
+    ],
+    "description": "Habanosは、紙巻きのように神経質にたたかず、灰が落ちるのを待つ扱いを説明している。",
+    "confidence": "confirmed",
+    "staging": "灰皿へ手を伸ばす短い中断を、話題を変えるきっかけにする。灰の長さだけで熟練度を決めない。",
+    "sourceIds": [
+      "gesture-habanos"
+    ]
+  },
+  {
+    "id": "case-handling",
+    "title": "ケースを開けて閉じる",
+    "category": "common",
+    "tags": [
+      "ケース",
+      "所持品",
+      "手元"
+    ],
+    "description": "未確認。ケースの開閉から持ち主の心理を判断できるという根拠は収録していない。",
+    "confidence": "unverified",
+    "staging": "会話の途中でケースを開け、何も取り出さず閉じる。理由は台詞や前後の行動で示す。",
+    "sourceIds": []
+  },
+  {
+    "id": "lighter-lid",
+    "title": "ライターのふたを閉じる",
+    "category": "common",
+    "tags": [
+      "ライター",
+      "火をつける",
+      "消火"
+    ],
+    "description": "Zippoのオイル式防風ライターは、ホイールで着火し、ふたを閉じて消火する構造。自動では消火しない。",
+    "confidence": "confirmed",
+    "staging": "ふたを閉じる音を会話の区切りに使う。炎をつけたままポケットへ戻す描写にはしない。",
+    "sourceIds": [
+      "gesture-zippo"
+    ]
+  },
+  {
+    "id": "cigar-cutter",
+    "title": "葉巻カッターを取り出す",
+    "category": "cigar",
+    "tags": [
+      "葉巻カッター",
+      "準備",
+      "所持品"
+    ],
+    "description": "Habanosはギロチン式、専用のはさみ、円形の刃を持つパンチ式を挙げる。道具によって切り口の形が異なる。",
+    "confidence": "confirmed",
+    "staging": "カッターと葉巻を別々の場所から取り出す順序で、人物の準備の習慣を描く。",
+    "sourceIds": [
+      "gesture-habanos"
+    ]
+  },
+  {
+    "id": "pipe-care",
+    "title": "冷めたパイプを手入れする",
+    "category": "pipe",
+    "tags": [
+      "パイプの手入れ",
+      "モール",
+      "習慣"
+    ],
+    "description": "Savinelliは、通常の継ぎ手を持つパイプを熱いうちに分解しないよう注意し、管の掃除にモールを使う方法を説明している。",
+    "confidence": "confirmed",
+    "staging": "机に布を敷き、道具を順に並べる。手入れを後回しにする場面と対比すれば、普段との違いを示せる。",
+    "sourceIds": [
+      "gesture-savinelli"
+    ]
+  },
+  {
+    "id": "shisha-conversation",
+    "title": "シーシャの席で会話を続ける",
+    "category": "shisha",
+    "tags": [
+      "社交文化",
+      "会話",
+      "集団"
+    ],
+    "description": "水パイプカフェの観察研究では、会話と非アルコール飲料を飲む行動が多く見られた。これは調査した場の記録であり、すべての地域の作法を示すものではない。",
+    "confidence": "confirmed",
+    "staging": "道具を中心に全員が同じ話題を話す場面と、会話が分かれる場面を描き分ける。吸わない参加者にも役割を持たせる。",
+    "sourceIds": [
+      "gesture-waterpipe-study"
+    ]
+  },
+  {
+    "id": "device-battery",
+    "title": "電子デバイスと電池をしまう",
+    "category": "vape",
+    "tags": [
+      "電子デバイス",
+      "電池",
+      "持ち運び"
+    ],
+    "description": "フランスDGCCRFは、取り外し式電池を保護ケースに入れ、鍵や硬貨などの金属に接触させないよう注意している。機器指定の電池や充電器に従う扱いが前提。",
+    "confidence": "confirmed",
+    "staging": "持ち物を仕分ける人物が、電池のケースまで確認する。細かな道具管理を描く場面に使える。",
+    "sourceIds": [
+      "gesture-device-care"
+    ]
+  },
+  {
+    "id": "former-smoker",
+    "title": "以前のポケットに手を伸ばす",
+    "category": "common",
+    "tags": [
+      "喫煙をやめた人物",
+      "習慣",
+      "回想"
+    ],
+    "description": "未確認。喫煙をやめた人に共通する仕草としては扱わない。",
+    "confidence": "unverified",
+    "staging": "以前ライターを入れていたポケットに手を伸ばし、空の手を戻す。過去の場面と同じ動作を使い、習慣の変化を示す。",
+    "sourceIds": []
+  },
+  {
+    "id": "consideration",
+    "title": "人のいる場所で道具をしまう",
+    "category": "common",
+    "tags": [
+      "他人への気遣い",
+      "受動喫煙",
+      "会話"
+    ],
+    "description": "CDCは燃焼するタバコ製品の受動喫煙に、安全な曝露水準はないと説明している。煙の向きを変えるだけで安全になるとはいえない。",
+    "confidence": "confirmed",
+    "staging": "相手が来たときに火をつけるのをやめ、道具をしまって会話を続ける。気遣いは具体的な行動として描く。",
+    "sourceIds": [
+      "gesture-cdc-smoke"
+    ]
+  },
+  {
+    "id": "tension-pause",
+    "title": "準備の途中で手を止める",
+    "category": "common",
+    "tags": [
+      "緊張",
+      "手元",
+      "沈黙"
+    ],
+    "description": "未確認。準備を中断する仕草だけから、緊張していると判断することはできない。",
+    "confidence": "unverified",
+    "staging": "準備の同じ段階で二度手を止める。視線や言い直しを添え、緊張している理由を場面の中で示す。",
+    "sourceIds": []
+  },
+  {
+    "id": "anger-put-down",
+    "title": "道具を置いて話す",
+    "category": "common",
+    "tags": [
+      "怒り",
+      "会話",
+      "抑制"
+    ],
+    "description": "未確認。道具を強く置く行動が怒りを意味するという普遍的な根拠は収録していない。",
+    "confidence": "unverified",
+    "staging": "普段は手に持ったまま話す人物が、道具を置いて相手を見直す。声を荒らげる前の判断の間として使う。",
+    "sourceIds": []
+  },
+  {
+    "id": "grief-unlit",
+    "title": "火をつけずにしまう",
+    "category": "common",
+    "tags": [
+      "悲しみ",
+      "喪失",
+      "沈黙"
+    ],
+    "description": "未確認。火をつけない動作と悲しみの関係は、創作上の演出として扱う。",
+    "confidence": "unverified",
+    "staging": "亡くなった相手からもらったケースを開き、道具を使わずにしまう。品物の来歴を示して感情につなげる。",
+    "sourceIds": []
+  },
+  {
+    "id": "kiseru-wear",
+    "title": "煙管のへこみに気付く",
+    "category": "kiseru",
+    "tags": [
+      "灰の落とし方",
+      "使用痕",
+      "歴史資料"
+    ],
+    "description": "Amsterdam Pipe Museumは、灰を落とす際に金属の縁へ打ち付けたことで、煙管にへこみが生じた例を説明している。現代の器具への推奨操作ではない。",
+    "confidence": "confirmed",
+    "staging": "道具を受け継いだ人物がへこみを見つけ、前の持ち主の使い方を尋ねる。使用痕から物語のきっかけを作る。",
+    "sourceIds": [
+      "gesture-kiseru-museum"
+    ]
+  }
+]

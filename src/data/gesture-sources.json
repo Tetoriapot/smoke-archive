@@ -1,0 +1,58 @@
+[
+  {
+    "id": "gesture-habanos",
+    "title": "Choosing, cutting, lighting and smoking",
+    "publisher": "Habanos S.A.",
+    "url": "https://www.habanos.com/en/choosing-cutting-lighting-and-smoking/",
+    "checkedAt": "2026-10-26",
+    "scope": "同社の葉巻についてのカッター・点火・灰の扱い。すべての葉巻に共通する作法とは断定しない。"
+  },
+  {
+    "id": "gesture-savinelli",
+    "title": "Cleaning and Maintenance of the Pipe",
+    "publisher": "Savinelli",
+    "url": "https://www.savinelli.it/eu_en/pipe-maintenance",
+    "checkedAt": "2026-10-26",
+    "scope": "通常の継ぎ手を持つパイプの冷却・分解とモールを使う手入れ。"
+  },
+  {
+    "id": "gesture-zippo",
+    "title": "How To Fill a Zippo Lighter",
+    "publisher": "Zippo",
+    "url": "https://www.zippo.com/pages/how-to-fill-your-zippo-lighter",
+    "checkedAt": "2026-10-26",
+    "scope": "オイル式防風ライターのホイールとふたによる消火。電子式など別方式には一般化しない。"
+  },
+  {
+    "id": "gesture-waterpipe-study",
+    "title": "An Observational Study of Group Waterpipe Use in a Natural Environment",
+    "publisher": "Nicotine & Tobacco Research / PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3864492/",
+    "checkedAt": "2026-10-26",
+    "scope": "都市部の水パイプカフェで観察した241人の会話・飲み物などの行動。地域や時代の異なる文化全体には一般化しない。"
+  },
+  {
+    "id": "gesture-device-care",
+    "title": "Vos questions, nos réponses sur les cigarettes électroniques",
+    "publisher": "フランス経済・財務省 DGCCRF",
+    "url": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/vos-questions-nos-reponses-sur-les-cigarettes-electroniques",
+    "checkedAt": "2026-10-26",
+    "scope": "2025年10月30日付。取り外し式電池の保護ケース、金属との接触回避、機器指定の充電器に関する注意。フランスの販売規制を他国に転用しない。"
+  },
+  {
+    "id": "gesture-cdc-smoke",
+    "title": "About Secondhand Smoke",
+    "publisher": "米国疾病予防管理センター（CDC）",
+    "url": "https://www.cdc.gov/tobacco/secondhand-smoke/",
+    "checkedAt": "2026-10-26",
+    "scope": "燃焼するタバコ製品の受動喫煙リスク。わずかな曝露でも害があり、安全な曝露水準はない。"
+  },
+  {
+    "id": "gesture-kiseru-museum",
+    "title": "Japanese kiserus",
+    "publisher": "Amsterdam Pipe Museum",
+    "url": "https://pipemuseum.nl/nl/japanse-kiserus",
+    "checkedAt": "2026-10-26",
+    "scope": "金属製の灰皿などへの打ち付けによって生じた煙管のへこみ。現代の器具の取り扱い推奨ではない。"
+  }
+]

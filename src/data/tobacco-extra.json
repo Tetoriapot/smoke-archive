@@ -1,0 +1,1764 @@
+[
+  {
+    "id": "lucky-strike",
+    "name": "ラッキーストライク",
+    "originalName": "Lucky Strike",
+    "category": "cigarette",
+    "subcategory": "紙巻きブランド",
+    "kind": "brand",
+    "brand": "Lucky Strike",
+    "introducedYear": null,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "米国。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "smithsonian-lucky-strike"
+        ]
+      },
+      "history": {
+        "text": "1871年に米国で噛みタバコとして始まったブランド。後に紙巻きへ展開したが、本項では紙巻きの初発売年は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "smithsonian-lucky-strike"
+        ]
+      },
+      "appearance": {
+        "text": "第二次世界大戦中に、緑と金を使った箱から白い箱へ変更された。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "smithsonian-lucky-strike"
+        ]
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "1920年代には痩身を連想させる女性向け広告を展開した。これは歴史上の広告表現であり、健康上の効果を示すものではない。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "smithsonian-lucky-strike"
+        ]
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "古い箱や広告の配色に関心を持つ人物。",
+      "rationale": "戦時中に箱の色が変わった履歴を、古物を見分ける人物の会話へ使える。",
+      "counterpoint": "新しい物を好む芸術家が、包装の変遷だけは資料を集める設定。",
+      "matches": {
+        "age": [
+          "30代",
+          "40代以上"
+        ],
+        "occupation": [
+          "探偵",
+          "研究者"
+        ],
+        "personality": [
+          "几帳面"
+        ],
+        "era": [
+          "昭和",
+          "現代"
+        ],
+        "country": [
+          "米国"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "budget": [
+          "中庸"
+        ],
+        "aesthetic": [
+          "伝統"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "芸術家"
+        ],
+        "personality": [
+          "大胆"
+        ],
+        "aesthetic": [
+          "前衛"
+        ]
+      },
+      "gestures": [
+        "箱の表と裏を見比べる",
+        "資料をしまってから席を立つ"
+      ],
+      "props": [
+        "古い雑誌",
+        "携帯灰皿"
+      ]
+    },
+    "tags": [
+      "探偵",
+      "研究者",
+      "几帳面",
+      "伝統"
+    ],
+    "palette": [
+      "#A94B3B",
+      "#E2D8C3",
+      "#55614E"
+    ],
+    "relatedIds": [
+      "sobranie",
+      "pall-mall",
+      "seven-stars"
+    ],
+    "sources": [
+      {
+        "id": "smithsonian-lucky-strike",
+        "title": "Lucky Strike Tobacco Box",
+        "publisher": "National Museum of American History",
+        "url": "https://americanhistory.si.edu/collections/object/nmah_1299569",
+        "checkedAt": "2026-10-26",
+        "scope": "ブランドの起源と箱の配色変更。初期の噛みタバコと後の紙巻きを区別する。"
+      }
+    ]
+  },
+  {
+    "id": "pall-mall",
+    "name": "ポールモール",
+    "originalName": "Pall Mall",
+    "category": "cigarette",
+    "subcategory": "紙巻きブランド",
+    "kind": "brand",
+    "brand": "Pall Mall",
+    "introducedYear": 1899,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "bat-prospectus-2017"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "2017年のBAT資料に取扱ブランドとして記載。地域別の現行製造元は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "bat-prospectus-2017"
+        ]
+      },
+      "origin": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "history": {
+        "text": "1899年登場。BATの2017年資料は、1994年に同社のブランド群へ加わった経緯を記載。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "bat-prospectus-2017"
+        ]
+      },
+      "appearance": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "物の年代を確認してから使う人物。",
+      "rationale": "ブランド史を調べる習慣を、資料整理が得意な人物の設定へ使える。",
+      "counterpoint": "即断する経営者が、古い日用品だけは出自を慎重に調べる設定。",
+      "matches": {
+        "age": [
+          "40代以上"
+        ],
+        "occupation": [
+          "研究者",
+          "会社員"
+        ],
+        "personality": [
+          "几帳面"
+        ],
+        "era": [
+          "昭和",
+          "現代"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "budget": [
+          "中庸"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "経営者"
+        ],
+        "personality": [
+          "大胆"
+        ],
+        "aesthetic": [
+          "前衛"
+        ]
+      },
+      "gestures": [
+        "箱の残りを確かめる",
+        "物を決めた場所へ戻す"
+      ],
+      "props": [
+        "資料ノート",
+        "携帯灰皿"
+      ]
+    },
+    "tags": [
+      "研究者",
+      "会社員",
+      "几帳面",
+      "実用",
+      "ポール・モール",
+      "ペルメル"
+    ],
+    "palette": [
+      "#8E4840",
+      "#D6C4A1",
+      "#555B66"
+    ],
+    "relatedIds": [
+      "mevius",
+      "winston",
+      "salem"
+    ],
+    "sources": [
+      {
+        "id": "bat-prospectus-2017",
+        "title": "Prospectus dated 14 June 2017",
+        "publisher": "British American Tobacco",
+        "url": "https://www.bat.com/content/dam/batcom/global/main-nav/investors-and-reporting/shareholder-information/acquisition-of-reynolds-american-inc-/Prospectus-dated-14-June-2017-30-mb.pdf",
+        "checkedAt": "2026-10-26",
+        "scope": "本文70頁のPall Mallの沿革。2017年の資料であり現行流通の根拠にはしない。"
+      }
+    ]
+  },
+  {
+    "id": "gauloises",
+    "name": "ゴロワーズ",
+    "originalName": "Gauloises",
+    "category": "cigarette",
+    "subcategory": "紙巻きブランド",
+    "kind": "brand",
+    "brand": "Gauloises",
+    "introducedYear": 1910,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "imperial-brands-extra"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "フランス。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "imperial-brands-extra"
+        ]
+      },
+      "history": {
+        "text": "1910年、フランスで発売。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "imperial-brands-extra"
+        ]
+      },
+      "appearance": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "Imperial Brandsは1960〜70年代の対抗文化との関係を紹介。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "imperial-brands-extra"
+        ]
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "文化運動の資料を集める芸術家。",
+      "rationale": "企業が説明する1960〜70年代の対抗文化との結び付きを、人物が抱くブランド観として描ける。",
+      "counterpoint": "堅実な会社員が、休日には当時の文化誌を読み集める設定。",
+      "matches": {
+        "age": [
+          "30代",
+          "40代以上"
+        ],
+        "occupation": [
+          "芸術家",
+          "作家"
+        ],
+        "personality": [
+          "内向的"
+        ],
+        "era": [
+          "昭和",
+          "現代"
+        ],
+        "country": [
+          "その他"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "budget": [
+          "中庸"
+        ],
+        "aesthetic": [
+          "前衛"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "会社員"
+        ],
+        "personality": [
+          "几帳面"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gestures": [
+        "読みかけの本に箱を添えて置く",
+        "未点火の一本を戻す"
+      ],
+      "props": [
+        "文化誌",
+        "筆記具"
+      ]
+    },
+    "tags": [
+      "芸術家",
+      "作家",
+      "内向的",
+      "前衛",
+      "ゴロワーズ・ブロンド"
+    ],
+    "palette": [
+      "#3E6086",
+      "#C4B38D",
+      "#66615C"
+    ],
+    "relatedIds": [
+      "silk-cut",
+      "peace",
+      "sobranie"
+    ],
+    "sources": [
+      {
+        "id": "imperial-brands-extra",
+        "title": "Our brands",
+        "publisher": "Imperial Brands",
+        "url": "https://www.imperialbrandsplc.com/our-brands",
+        "checkedAt": "2026-10-26",
+        "scope": "Gauloises、JPS、West、Backwoodsの各ブランド年表と紹介。企業の文化的評価は説明者を明記する。"
+      }
+    ]
+  },
+  {
+    "id": "john-player-special",
+    "name": "JPS（ジョン・プレイヤー・スペシャル）",
+    "originalName": "John Player Special (JPS)",
+    "category": "cigarette",
+    "subcategory": "紙巻きブランド",
+    "kind": "brand",
+    "brand": "John Player Special (JPS)",
+    "introducedYear": 1970,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "imperial-brands-extra"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "英国。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "imperial-brands-extra"
+        ]
+      },
+      "history": {
+        "text": "1970年、英国で発売。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "imperial-brands-extra"
+        ]
+      },
+      "appearance": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "1970年代の競技車両に黒と金のブランド意匠を使用。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "imperial-brands-extra"
+        ]
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "モータースポーツの記録を集める人物。",
+      "rationale": "黒と金の広告意匠を、人物の持ち物や観戦の記憶に関連付ける案。",
+      "counterpoint": "競争を嫌う寡黙な作家が、車体のデザイン資料だけは集める設定。",
+      "matches": {
+        "age": [
+          "30代",
+          "40代以上"
+        ],
+        "occupation": [
+          "職人",
+          "芸術家"
+        ],
+        "personality": [
+          "大胆"
+        ],
+        "era": [
+          "昭和",
+          "現代"
+        ],
+        "country": [
+          "英国"
+        ],
+        "clothing": [
+          "作業着"
+        ],
+        "budget": [
+          "中庸"
+        ],
+        "aesthetic": [
+          "洗練"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "作家"
+        ],
+        "personality": [
+          "寡黙"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "aesthetic": [
+          "伝統"
+        ]
+      },
+      "gestures": [
+        "古いレース写真を取り出す",
+        "道具を並べてから片付ける"
+      ],
+      "props": [
+        "レース写真",
+        "携帯灰皿"
+      ]
+    },
+    "tags": [
+      "職人",
+      "芸術家",
+      "大胆",
+      "洗練",
+      "JPS",
+      "ジョンプレイヤースペシャル"
+    ],
+    "palette": [
+      "#27292C",
+      "#B69A58",
+      "#60564A"
+    ],
+    "relatedIds": [
+      "silk-cut",
+      "peace",
+      "seven-stars"
+    ],
+    "sources": [
+      {
+        "id": "imperial-brands-extra",
+        "title": "Our brands",
+        "publisher": "Imperial Brands",
+        "url": "https://www.imperialbrandsplc.com/our-brands",
+        "checkedAt": "2026-10-26",
+        "scope": "Gauloises、JPS、West、Backwoodsの各ブランド年表と紹介。企業の文化的評価は説明者を明記する。"
+      }
+    ]
+  },
+  {
+    "id": "west",
+    "name": "ウエスト",
+    "originalName": "West",
+    "category": "cigarette",
+    "subcategory": "紙巻きブランド",
+    "kind": "brand",
+    "brand": "West",
+    "introducedYear": 1981,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "imperial-brands-extra"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "ドイツ。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "imperial-brands-extra"
+        ]
+      },
+      "history": {
+        "text": "1981年、ドイツで発売。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "imperial-brands-extra"
+        ]
+      },
+      "appearance": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "1997〜2005年、マクラーレンF1チームのスポンサーを務めた。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "imperial-brands-extra"
+        ]
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "競技の映像や記録を見返す人物。",
+      "rationale": "F1でのスポンサー活動を、人物が銘柄名を覚えた経緯にできる。",
+      "counterpoint": "車に乗らない研究者が、スポンサー表記の変化を調べる設定。",
+      "matches": {
+        "age": [
+          "30代",
+          "40代以上"
+        ],
+        "occupation": [
+          "職人",
+          "会社員"
+        ],
+        "personality": [
+          "社交的"
+        ],
+        "era": [
+          "昭和",
+          "現代"
+        ],
+        "country": [
+          "その他"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "budget": [
+          "中庸"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "研究者"
+        ],
+        "personality": [
+          "内向的"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "aesthetic": [
+          "伝統"
+        ]
+      },
+      "gestures": [
+        "映像を止めてロゴを確かめる",
+        "外出前に持ち物を数える"
+      ],
+      "props": [
+        "記録ノート",
+        "携帯灰皿"
+      ]
+    },
+    "tags": [
+      "職人",
+      "会社員",
+      "社交的",
+      "実用",
+      "ウェスト"
+    ],
+    "palette": [
+      "#BFC0B8",
+      "#43474C",
+      "#A3493B"
+    ],
+    "relatedIds": [
+      "winston",
+      "salem",
+      "seven-stars"
+    ],
+    "sources": [
+      {
+        "id": "imperial-brands-extra",
+        "title": "Our brands",
+        "publisher": "Imperial Brands",
+        "url": "https://www.imperialbrandsplc.com/our-brands",
+        "checkedAt": "2026-10-26",
+        "scope": "Gauloises、JPS、West、Backwoodsの各ブランド年表と紹介。企業の文化的評価は説明者を明記する。"
+      }
+    ]
+  },
+  {
+    "id": "trinidad-cuba",
+    "name": "トリニダッド（キューバ）",
+    "originalName": "Trinidad (Cuba)",
+    "category": "cigar",
+    "subcategory": "葉巻ブランド",
+    "kind": "brand",
+    "brand": "Trinidad (Cuba)",
+    "introducedYear": 1969,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "habanos-trinidad"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "キューバ。名称は同国南岸の町トリニダッドにちなむ。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-trinidad"
+        ]
+      },
+      "history": {
+        "text": "1969年に始まり、外交官への贈答に使用された。一般販売の開始は1998年。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-trinidad"
+        ]
+      },
+      "appearance": {
+        "text": "当初はFundadoresの1種。2003年にReyesなど3種を追加。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-trinidad"
+        ]
+      },
+      "aroma": {
+        "text": "公式は中程度の風味と説明。健康リスクの程度を意味しない。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "habanos-trinidad"
+        ]
+      },
+      "culture": {
+        "text": "初期の外交贈答用途と、キューバの町に由来する命名を公式が紹介。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-trinidad"
+        ]
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "贈り物の由来を記録する人物。",
+      "rationale": "外交贈答の履歴を、贈られた物を保管する理由や人物同士の関係に使える。",
+      "counterpoint": "物を増やしたくない旅人が、ある贈答品だけは手放せない設定。",
+      "matches": {
+        "age": [
+          "40代以上"
+        ],
+        "occupation": [
+          "経営者"
+        ],
+        "personality": [
+          "几帳面"
+        ],
+        "era": [
+          "現代"
+        ],
+        "country": [
+          "キューバ"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "budget": [
+          "裕福"
+        ],
+        "aesthetic": [
+          "伝統"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "旅人"
+        ],
+        "personality": [
+          "大胆"
+        ],
+        "budget": [
+          "質素"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gestures": [
+        "贈り主の手紙と箱をしまう",
+        "箱を開けずに名前だけ読む"
+      ],
+      "props": [
+        "贈答カード",
+        "保管箱"
+      ]
+    },
+    "tags": [
+      "経営者",
+      "几帳面",
+      "伝統"
+    ],
+    "palette": [
+      "#B09A63",
+      "#57463A",
+      "#CBBDA0"
+    ],
+    "relatedIds": [
+      "h-upmann-cuba",
+      "cohiba-cuba",
+      "romeo-julieta-cuba"
+    ],
+    "sources": [
+      {
+        "id": "habanos-trinidad",
+        "title": "Trinidad Brand",
+        "publisher": "Habanos, S.A.",
+        "url": "https://www.habanos.com/en/the-habanos-brands-academia/trinidad-brand/",
+        "checkedAt": "2026-10-26",
+        "scope": "キューバの当該ブランドの沿革と外観。香味の評価は企業による説明として扱う。"
+      }
+    ]
+  },
+  {
+    "id": "bolivar-cuba",
+    "name": "ボリバー（キューバ）",
+    "originalName": "Bolívar (Cuba)",
+    "category": "cigar",
+    "subcategory": "葉巻ブランド",
+    "kind": "brand",
+    "brand": "Bolívar (Cuba)",
+    "introducedYear": 1902,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "habanos-bolivar"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "キューバ。公式紹介はハバナのパルタガス工場を拠点として記載。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-bolivar"
+        ]
+      },
+      "history": {
+        "text": "1902年創設。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-bolivar"
+        ]
+      },
+      "appearance": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "aroma": {
+        "text": "公式の香味分類は強め。健康上の強弱を示す値ではない。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "habanos-bolivar"
+        ]
+      },
+      "culture": {
+        "text": "シモン・ボリバルにちなんだブランド名。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-bolivar"
+        ]
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "歴史上の人物の評価を議論する人物。",
+      "rationale": "シモン・ボリバルに由来する命名を、人物の歴史への関心と結び付ける案。",
+      "counterpoint": "大胆な身ぶりの経営者が、歴史の話題では慎重に言葉を選ぶ設定。",
+      "matches": {
+        "age": [
+          "40代以上"
+        ],
+        "occupation": [
+          "研究者",
+          "経営者"
+        ],
+        "personality": [
+          "大胆"
+        ],
+        "era": [
+          "昭和",
+          "現代"
+        ],
+        "country": [
+          "キューバ"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "budget": [
+          "裕福"
+        ],
+        "aesthetic": [
+          "伝統"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "芸術家"
+        ],
+        "personality": [
+          "内向的"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "aesthetic": [
+          "前衛"
+        ]
+      },
+      "gestures": [
+        "話題を変える前に道具を置く",
+        "箱の名前を指して説明する"
+      ],
+      "props": [
+        "歴史書",
+        "葉巻ケース"
+      ]
+    },
+    "tags": [
+      "研究者",
+      "経営者",
+      "大胆",
+      "伝統",
+      "ボリバル",
+      "Bolivar"
+    ],
+    "palette": [
+      "#A17E47",
+      "#723D31",
+      "#CBB994"
+    ],
+    "relatedIds": [
+      "partagas-cuba",
+      "cohiba-cuba",
+      "romeo-julieta-cuba"
+    ],
+    "sources": [
+      {
+        "id": "habanos-bolivar",
+        "title": "Bolívar Brand",
+        "publisher": "Habanos, S.A.",
+        "url": "https://www.habanos.com/en/the-habanos-brands-academia/bolivar-brand/",
+        "checkedAt": "2026-10-26",
+        "scope": "キューバの当該ブランドの沿革と外観。香味の評価は企業による説明として扱う。"
+      }
+    ]
+  },
+  {
+    "id": "punch-cuba",
+    "name": "パンチ（キューバ）",
+    "originalName": "Punch (Cuba)",
+    "category": "cigar",
+    "subcategory": "葉巻ブランド",
+    "kind": "brand",
+    "brand": "Punch (Cuba)",
+    "introducedYear": null,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "キューバの葉巻ブランド。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-punch"
+        ]
+      },
+      "history": {
+        "text": "19世紀半ばに英国市場を意識して創設。正確な創設年は参照資料では未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-punch"
+        ]
+      },
+      "appearance": {
+        "text": "箱にはMr. Punchと、19世紀の葉巻作りを表す図像を配置。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-punch"
+        ]
+      },
+      "aroma": {
+        "text": "公式は中程度の風味と分類。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "habanos-punch"
+        ]
+      },
+      "culture": {
+        "text": "英国の同名のユーモア雑誌を意識した命名を公式が説明。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-punch"
+        ]
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "風刺画や雑誌を読む人物。",
+      "rationale": "箱に描かれるMr. Punchを、人物が新聞や風刺に関心を持つ理由へつなげる案。",
+      "counterpoint": "冗談が苦手な研究者が、図版の出典を調べるために箱を保存する設定。",
+      "matches": {
+        "age": [
+          "40代以上"
+        ],
+        "occupation": [
+          "作家",
+          "芸術家"
+        ],
+        "personality": [
+          "社交的"
+        ],
+        "era": [
+          "昭和",
+          "現代"
+        ],
+        "country": [
+          "英国",
+          "キューバ"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "budget": [
+          "裕福"
+        ],
+        "aesthetic": [
+          "伝統"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "研究者"
+        ],
+        "personality": [
+          "几帳面"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gestures": [
+        "箱の絵を見せながら話す",
+        "新聞を畳んでから席を立つ"
+      ],
+      "props": [
+        "風刺雑誌",
+        "保管箱"
+      ]
+    },
+    "tags": [
+      "作家",
+      "芸術家",
+      "社交的",
+      "伝統"
+    ],
+    "palette": [
+      "#A18C57",
+      "#7B4B3C",
+      "#D1C6AB"
+    ],
+    "relatedIds": [
+      "romeo-julieta-cuba",
+      "cohiba-cuba",
+      "montecristo-cuba"
+    ],
+    "sources": [
+      {
+        "id": "habanos-punch",
+        "title": "Punch Brand",
+        "publisher": "Habanos, S.A.",
+        "url": "https://www.habanos.com/en/the-habanos-brands-academia/punch-brand/",
+        "checkedAt": "2026-10-26",
+        "scope": "キューバの当該ブランドの沿革と外観。香味の評価は企業による説明として扱う。"
+      }
+    ]
+  },
+  {
+    "id": "ramon-allones-cuba",
+    "name": "ラモン・アロネス（キューバ）",
+    "originalName": "Ramón Allones (Cuba)",
+    "category": "cigar",
+    "subcategory": "葉巻ブランド",
+    "kind": "brand",
+    "brand": "Ramón Allones (Cuba)",
+    "introducedYear": 1837,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "habanos-ramon-allones"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "キューバ。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-ramon-allones"
+        ]
+      },
+      "history": {
+        "text": "1837年創設。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-ramon-allones"
+        ]
+      },
+      "appearance": {
+        "text": "ブランドの紋章と装飾ラベルを使った箱を採用。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-ramon-allones"
+        ]
+      },
+      "aroma": {
+        "text": "公式は強く複雑な風味と表現。編集部の試喫評価ではない。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "habanos-ramon-allones"
+        ]
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "公式は装飾箱の先駆者と位置付ける。独立した比較検証は未実施。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "habanos-ramon-allones"
+        ]
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "箱やラベルの図案を集める人物。",
+      "rationale": "装飾ラベルを使った箱の履歴を、包装や印刷に詳しい人物の設定へ使える。",
+      "counterpoint": "物をすぐ捨てる職人が、特定の図案だけは切り抜いて残す設定。",
+      "matches": {
+        "age": [
+          "30代",
+          "40代以上"
+        ],
+        "occupation": [
+          "芸術家",
+          "研究者"
+        ],
+        "personality": [
+          "几帳面"
+        ],
+        "era": [
+          "19世紀",
+          "昭和",
+          "現代"
+        ],
+        "country": [
+          "キューバ"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "budget": [
+          "裕福"
+        ],
+        "aesthetic": [
+          "伝統"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "職人"
+        ],
+        "personality": [
+          "大胆"
+        ],
+        "clothing": [
+          "作業着"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gestures": [
+        "箱のラベルを記録する",
+        "資料に日付を書き添える"
+      ],
+      "props": [
+        "標本帳",
+        "筆記具"
+      ]
+    },
+    "tags": [
+      "芸術家",
+      "研究者",
+      "几帳面",
+      "伝統",
+      "Ramon Allones"
+    ],
+    "palette": [
+      "#566B4A",
+      "#C3AA6D",
+      "#6B4937"
+    ],
+    "relatedIds": [
+      "hoyo-monterrey-cuba",
+      "por-larranaga-cuba",
+      "h-upmann-cuba"
+    ],
+    "sources": [
+      {
+        "id": "habanos-ramon-allones",
+        "title": "Ramón Allones Brand",
+        "publisher": "Habanos, S.A.",
+        "url": "https://www.habanos.com/en/the-habanos-brands-academia/ramon-allones-brand/",
+        "checkedAt": "2026-10-26",
+        "scope": "キューバの当該ブランドの沿革と外観。香味の評価は企業による説明として扱う。"
+      }
+    ]
+  },
+  {
+    "id": "por-larranaga-cuba",
+    "name": "ポール・ララナガ（キューバ）",
+    "originalName": "Por Larrañaga (Cuba)",
+    "category": "cigar",
+    "subcategory": "葉巻ブランド",
+    "kind": "brand",
+    "brand": "Por Larrañaga (Cuba)",
+    "introducedYear": 1834,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "habanos-por-larranaga"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "キューバ。ブエルタ・アバホの葉を用いる。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-por-larranaga"
+        ]
+      },
+      "history": {
+        "text": "1834年創設。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-por-larranaga"
+        ]
+      },
+      "appearance": {
+        "text": "ロングフィラーとショートフィラーの手巻き製品を含む。Galanesは長さ120mm・リングゲージ52。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-por-larranaga"
+        ]
+      },
+      "aroma": {
+        "text": "公式は軽めから中程度の風味と分類。健康リスクの低さを意味しない。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "habanos-por-larranaga"
+        ]
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "道具の作りの違いを調べる人物。",
+      "rationale": "同一ブランドに長い葉を使う型と刻んだ葉を使う型があることを、製法を比較する場面に利用できる。",
+      "counterpoint": "見た目だけで物を選ぶ芸術家が、ある箱から製法に関心を持つ設定。",
+      "matches": {
+        "age": [
+          "40代以上"
+        ],
+        "occupation": [
+          "職人",
+          "研究者"
+        ],
+        "personality": [
+          "几帳面"
+        ],
+        "era": [
+          "19世紀",
+          "昭和",
+          "現代"
+        ],
+        "country": [
+          "キューバ"
+        ],
+        "clothing": [
+          "作業着"
+        ],
+        "budget": [
+          "中庸"
+        ],
+        "aesthetic": [
+          "実用",
+          "伝統"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "芸術家"
+        ],
+        "personality": [
+          "社交的"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "aesthetic": [
+          "前衛"
+        ]
+      },
+      "gestures": [
+        "説明書の言葉を調べる",
+        "使わない道具を片付ける"
+      ],
+      "props": [
+        "製法の資料",
+        "葉巻ケース"
+      ]
+    },
+    "tags": [
+      "職人",
+      "研究者",
+      "几帳面",
+      "実用",
+      "伝統",
+      "ポル・ララニャガ",
+      "Por Larranaga"
+    ],
+    "palette": [
+      "#B3A06F",
+      "#7E5A3D",
+      "#D6CBB4"
+    ],
+    "relatedIds": [
+      "hoyo-monterrey-cuba",
+      "ramon-allones-cuba",
+      "partagas-cuba"
+    ],
+    "sources": [
+      {
+        "id": "habanos-por-larranaga",
+        "title": "Por Larrañaga Brand",
+        "publisher": "Habanos, S.A.",
+        "url": "https://www.habanos.com/en/the-habanos-brands-academia/por-larranaga-brand/",
+        "checkedAt": "2026-10-26",
+        "scope": "キューバの当該ブランドの沿革と外観。香味の評価は企業による説明として扱う。"
+      }
+    ]
+  },
+  {
+    "id": "fonseca-cuba",
+    "name": "フォンセカ（キューバ）",
+    "originalName": "Fonseca (Cuba)",
+    "category": "cigar",
+    "subcategory": "葉巻ブランド",
+    "kind": "brand",
+    "brand": "Fonseca (Cuba)",
+    "introducedYear": null,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "キューバ。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-fonseca"
+        ]
+      },
+      "history": {
+        "text": "19世紀最後の10年間にフランシスコ・フォンセカが創設。正確な年は参照資料では未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-fonseca"
+        ]
+      },
+      "appearance": {
+        "text": "薄紙で包む外観をブランドの特徴として公式が紹介。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-fonseca"
+        ]
+      },
+      "aroma": {
+        "text": "公式は軽めの風味と分類。健康リスクの低さを示す説明ではない。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "habanos-fonseca"
+        ]
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "包装を丁寧に扱う人物。",
+      "rationale": "薄紙で包む外観を、物を開く順序や手の動きに注意を払う人物の描写へ使える。",
+      "counterpoint": "大胆な服装の人物が、薄紙だけは破らずに畳んで残す設定。",
+      "matches": {
+        "age": [
+          "30代",
+          "40代以上"
+        ],
+        "occupation": [
+          "芸術家",
+          "会社員"
+        ],
+        "personality": [
+          "几帳面"
+        ],
+        "era": [
+          "昭和",
+          "現代"
+        ],
+        "country": [
+          "キューバ"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "budget": [
+          "中庸"
+        ],
+        "aesthetic": [
+          "洗練"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "旅人"
+        ],
+        "personality": [
+          "大胆"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "aesthetic": [
+          "前衛"
+        ]
+      },
+      "gestures": [
+        "薄紙をゆっくり外す",
+        "包装を畳んでしまう"
+      ],
+      "props": [
+        "薄紙",
+        "ケース"
+      ]
+    },
+    "tags": [
+      "芸術家",
+      "会社員",
+      "几帳面",
+      "洗練"
+    ],
+    "palette": [
+      "#D8D2BF",
+      "#A27F4D",
+      "#744F43"
+    ],
+    "relatedIds": [
+      "h-upmann-cuba",
+      "ramon-allones-cuba",
+      "hoyo-monterrey-cuba"
+    ],
+    "sources": [
+      {
+        "id": "habanos-fonseca",
+        "title": "Fonseca Brand",
+        "publisher": "Habanos, S.A.",
+        "url": "https://www.habanos.com/en/the-habanos-brands-academia/fonseca-brand/",
+        "checkedAt": "2026-10-26",
+        "scope": "キューバの当該ブランドの沿革と外観。香味の評価は企業による説明として扱う。"
+      }
+    ]
+  },
+  {
+    "id": "backwoods",
+    "name": "バックウッズ",
+    "originalName": "Backwoods",
+    "category": "cigar",
+    "subcategory": "葉巻ブランド",
+    "kind": "brand",
+    "brand": "Backwoods",
+    "introducedYear": 1973,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "imperial-brands-extra"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "米国。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "imperial-brands-extra"
+        ]
+      },
+      "history": {
+        "text": "1973年、米国で発売。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "imperial-brands-extra"
+        ]
+      },
+      "appearance": {
+        "text": "公式紹介では葉巻の外巻きにブロードリーフ葉を使用。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "imperial-brands-extra"
+        ]
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "Imperial Brandsは米国のヒップホップとの関係やイベント活動を紹介。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "imperial-brands-extra"
+        ]
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "音楽の記録を調べる人物。",
+      "rationale": "企業が説明するヒップホップとの関係を、人物が広告や楽曲を調べる動機へ使える。",
+      "counterpoint": "物静かな作家が、音楽イベントの広告資料を細かく保存する設定。",
+      "matches": {
+        "age": [
+          "30代"
+        ],
+        "occupation": [
+          "芸術家"
+        ],
+        "personality": [
+          "社交的"
+        ],
+        "era": [
+          "現代"
+        ],
+        "country": [
+          "米国"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "budget": [
+          "中庸"
+        ],
+        "aesthetic": [
+          "前衛"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "作家",
+          "研究者"
+        ],
+        "personality": [
+          "寡黙"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "aesthetic": [
+          "伝統"
+        ]
+      },
+      "gestures": [
+        "イベントのプログラムを読む",
+        "使った物を袋へ戻す"
+      ],
+      "props": [
+        "音楽資料",
+        "携帯灰皿"
+      ]
+    },
+    "tags": [
+      "芸術家",
+      "社交的",
+      "前衛"
+    ],
+    "palette": [
+      "#6D4D37",
+      "#AD8856",
+      "#C4B48A"
+    ],
+    "relatedIds": [
+      "punch-cuba",
+      "cohiba-cuba",
+      "romeo-julieta-cuba"
+    ],
+    "sources": [
+      {
+        "id": "imperial-brands-extra",
+        "title": "Our brands",
+        "publisher": "Imperial Brands",
+        "url": "https://www.imperialbrandsplc.com/our-brands",
+        "checkedAt": "2026-10-26",
+        "scope": "Gauloises、JPS、West、Backwoodsの各ブランド年表と紹介。企業の文化的評価は説明者を明記する。"
+      }
+    ]
+  }
+]

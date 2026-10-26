@@ -1,0 +1,1251 @@
+[
+  {
+    "id": "peterson-system",
+    "name": "ピーターソン・システム",
+    "originalName": "Peterson System",
+    "category": "pipe",
+    "subcategory": "システムパイプ",
+    "kind": "type",
+    "brand": "Peterson",
+    "introducedYear": null,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "Kapp & Peterson。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "peterson-history"
+        ]
+      },
+      "origin": {
+        "text": "アイルランド・ダブリン。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "peterson-history"
+        ]
+      },
+      "history": {
+        "text": "Charles Petersonが1890年に構造の改良で特許を取得。個別モデルの発売年は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "peterson-history"
+        ]
+      },
+      "appearance": {
+        "text": "ボウルの下側にも及ぶ、水分を集める室を内部に備える。外形はモデルによって異なる。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "peterson-museum"
+        ]
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "道具の構造に関心を持つ人物の設定案。",
+      "rationale": "内部構造や手入れの描写を、調査や細工に時間をかける性格と組み合わせられる。",
+      "counterpoint": "短気な人物がこの道具だけは丁寧に手入れする、といった例外を作れる。",
+      "matches": {
+        "age": [
+          "40代以上"
+        ],
+        "occupation": [
+          "探偵",
+          "研究者"
+        ],
+        "personality": [
+          "几帳面",
+          "寡黙"
+        ],
+        "era": [
+          "現代"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "aesthetic": [
+          "実用",
+          "伝統"
+        ]
+      },
+      "gaps": {
+        "age": [
+          "20代"
+        ],
+        "personality": [
+          "大胆"
+        ],
+        "occupation": [
+          "芸術家"
+        ]
+      },
+      "gestures": [
+        "冷めたパイプを手入れする",
+        "会話の区切りに道具を置く"
+      ],
+      "props": [
+        "モール",
+        "パイプ置き",
+        "道具袋"
+      ]
+    },
+    "tags": [
+      "構造",
+      "手入れ",
+      "探偵",
+      "書斎"
+    ],
+    "palette": [
+      "#604839",
+      "#BC9870",
+      "#252C2E"
+    ],
+    "relatedIds": [
+      "savinelli-churchwarden-921",
+      "meerschaum-pipe"
+    ],
+    "sources": [
+      {
+        "id": "peterson-history",
+        "title": "About Kapp & Peterson",
+        "publisher": "Peterson",
+        "url": "https://www.peterson.ie/",
+        "checkedAt": "2026-10-26",
+        "scope": "ダブリンの工房と1890年のSystem特許。個別モデルの発売年は示さない。"
+      },
+      {
+        "id": "peterson-museum",
+        "title": "Early Peterson",
+        "publisher": "Amsterdam Pipe Museum",
+        "url": "https://pipemuseum.nl/en/object-of-month/vroege-peterson",
+        "checkedAt": "2026-10-26",
+        "scope": "Systemの水分を集める室と初期作例。"
+      }
+    ]
+  },
+  {
+    "id": "savinelli-churchwarden-921",
+    "name": "サビネリ・チャーチワーデン921",
+    "originalName": "Savinelli Churchwarden 921",
+    "category": "pipe",
+    "subcategory": "ロングステムパイプ",
+    "kind": "product",
+    "brand": "Savinelli",
+    "introducedYear": null,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "Savinelli。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "savinelli-921"
+        ]
+      },
+      "origin": {
+        "text": "ブランドはイタリア・ミラノの店舗を起点とする。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "savinelli-history"
+        ]
+      },
+      "history": {
+        "text": "ブランドの店舗は1876年、製造工場は1948年に開設。921の発売年は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "savinelli-history"
+        ]
+      },
+      "appearance": {
+        "text": "長い黒色のメタクリル樹脂製吸い口を備えた曲がり型。茶色の滑らかな仕上げで、全長は260mm。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "savinelli-921"
+        ]
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "長い吸い口を、座って資料を読む場面の小道具にする案。",
+      "rationale": "手元から顔まで距離のある輪郭を、読書机や肘掛け椅子と組み合わせられる。",
+      "counterpoint": "活動的な旅人の、自宅でだけ使う道具にすると生活の違いを描ける。",
+      "matches": {
+        "occupation": [
+          "作家",
+          "研究者"
+        ],
+        "personality": [
+          "内向的"
+        ],
+        "era": [
+          "現代"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "aesthetic": [
+          "伝統"
+        ],
+        "budget": [
+          "中庸"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "旅人"
+        ],
+        "personality": [
+          "社交的",
+          "大胆"
+        ],
+        "aesthetic": [
+          "前衛"
+        ]
+      },
+      "gestures": [
+        "長い吸い口を避けて机に置く",
+        "ページをめくる前に手を止める"
+      ],
+      "props": [
+        "本",
+        "パイプ置き",
+        "肘掛け椅子"
+      ]
+    },
+    "tags": [
+      "読書",
+      "書斎",
+      "ロングステム"
+    ],
+    "palette": [
+      "#764E33",
+      "#CBB78F",
+      "#252727"
+    ],
+    "relatedIds": [
+      "peterson-system",
+      "meerschaum-pipe"
+    ],
+    "sources": [
+      {
+        "id": "savinelli-921",
+        "title": "Churchwarden 921",
+        "publisher": "Savinelli",
+        "url": "https://b2b.savinelli.it/b2b_it/churchwarden-921-p124lm-921.html",
+        "checkedAt": "2026-10-26",
+        "scope": "921の形状、全長、素材と仕上げ。掲載は現行製造の保証ではない。"
+      },
+      {
+        "id": "savinelli-history",
+        "title": "Archivio Savinelli",
+        "publisher": "Savinelli",
+        "url": "https://www.savinelli.it/it_it/le-pipe-savinelli",
+        "checkedAt": "2026-10-26",
+        "scope": "1876年のミラノの店舗と1948年の製造工場開設。"
+      }
+    ]
+  },
+  {
+    "id": "macarthur-five-star",
+    "name": "マッカーサー・ファイブスター",
+    "originalName": "MacArthur Five-Star Corncob Pipe",
+    "category": "pipe",
+    "subcategory": "コーンコブパイプ",
+    "kind": "product",
+    "brand": "Missouri Meerschaum",
+    "introducedYear": null,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "slam-corncob"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "Missouri Meerschaum Company。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "slam-corncob"
+        ]
+      },
+      "origin": {
+        "text": "米国ミズーリ州ワシントン。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "slam-corncob"
+        ]
+      },
+      "history": {
+        "text": "美術館資料では1951年設計とされる。収蔵品の記録であり、現在の製品仕様や販売状況は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "slam-corncob"
+        ]
+      },
+      "appearance": {
+        "text": "資料に記載された素材はトウモロコシの穂軸、木、プラスチック。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "slam-corncob"
+        ]
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "Douglas MacArthurが提案した設計との関係を美術館が記録している。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "slam-corncob"
+        ]
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "大きな道具を机の上に置く、存在感のある人物の設定案。",
+      "rationale": "穂軸の素材感を作業机や木製家具と組み合わせ、道具に飾りすぎない性格を表せる。",
+      "counterpoint": "寡黙な芸術家が造形だけに関心を持って収集する設定も作れる。",
+      "matches": {
+        "occupation": [
+          "職人",
+          "経営者"
+        ],
+        "personality": [
+          "大胆"
+        ],
+        "country": [
+          "米国"
+        ],
+        "era": [
+          "昭和",
+          "現代"
+        ],
+        "clothing": [
+          "作業着"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "芸術家"
+        ],
+        "personality": [
+          "内向的"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "aesthetic": [
+          "洗練"
+        ]
+      },
+      "gestures": [
+        "話し始める前に机へ置く",
+        "使わずに道具箱にしまう"
+      ],
+      "props": [
+        "木製の道具箱",
+        "作業机"
+      ]
+    },
+    "tags": [
+      "コーンコブ",
+      "米国",
+      "歴史資料"
+    ],
+    "palette": [
+      "#B39A62",
+      "#795C3B",
+      "#3C413B"
+    ],
+    "relatedIds": [
+      "peterson-system"
+    ],
+    "sources": [
+      {
+        "id": "slam-corncob",
+        "title": "Corncob Pipes",
+        "publisher": "Saint Louis Art Museum",
+        "url": "https://www.slam.org/teachers-students/educator-resources/art-along-the-rivers/art-in-production/corn-cob-pipes/",
+        "checkedAt": "2026-10-26",
+        "scope": "MacArthur Five-Starの1951年の設計、製造者、素材。現代の同名製品の仕様とは区別する。"
+      }
+    ]
+  },
+  {
+    "id": "meerschaum-pipe",
+    "name": "メシャムパイプ",
+    "originalName": "Meerschaum pipe",
+    "category": "pipe",
+    "subcategory": "鉱物製パイプ",
+    "kind": "type",
+    "brand": "該当なし",
+    "introducedYear": null,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "資料では原石の採掘地としてトルコを挙げる。パイプ型式全体の単一の発祥地は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "meerschaum-museum"
+        ]
+      },
+      "history": {
+        "text": "博物館の解説では1800年頃にはパイプ素材として普及していたとされる。最初の製造年は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "meerschaum-museum"
+        ]
+      },
+      "appearance": {
+        "text": "白色の柔らかい石を加工する。彫刻や紋章を施した作例があり、使用に伴う黄褐色への変化も記録されている。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "meerschaum-museum"
+        ]
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "博物館は中央ヨーロッパ、特にハプスブルク帝国の富裕層における装飾品としての位置づけを説明している。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "meerschaum-museum"
+        ]
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "彫刻や古道具を収集する人物の小道具案。",
+      "rationale": "白い素材と細かな彫刻に注目する場面で、人物の美術への関心を示せる。",
+      "counterpoint": "質素な職人が、修理を頼まれた一品だけを大切に保管する設定にできる。",
+      "matches": {
+        "occupation": [
+          "芸術家",
+          "研究者"
+        ],
+        "age": [
+          "40代以上"
+        ],
+        "personality": [
+          "几帳面"
+        ],
+        "era": [
+          "19世紀",
+          "現代"
+        ],
+        "budget": [
+          "裕福"
+        ],
+        "aesthetic": [
+          "伝統",
+          "洗練"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "職人"
+        ],
+        "budget": [
+          "質素"
+        ],
+        "clothing": [
+          "作業着"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gestures": [
+        "彫刻の細部を観察する",
+        "柔らかな布を敷いて置く"
+      ],
+      "props": [
+        "収納箱",
+        "拡大鏡",
+        "布"
+      ]
+    },
+    "tags": [
+      "彫刻",
+      "収集",
+      "19世紀",
+      "美術"
+    ],
+    "palette": [
+      "#E0D4BC",
+      "#AD8C61",
+      "#514539"
+    ],
+    "relatedIds": [
+      "savinelli-churchwarden-921"
+    ],
+    "sources": [
+      {
+        "id": "meerschaum-museum",
+        "title": "Large sizes in meerschaum",
+        "publisher": "Amsterdam Pipe Museum",
+        "url": "https://pipemuseum.nl/en/knotsen-van-meerschuim",
+        "checkedAt": "2026-10-26",
+        "scope": "メシャム素材の色と彫刻、1800年頃の普及、中央ヨーロッパの文化背景。"
+      }
+    ]
+  },
+  {
+    "id": "borkum-riff",
+    "name": "ボルクムリーフ",
+    "originalName": "Borkum Riff",
+    "category": "pipe",
+    "subcategory": "パイプ用葉ブランド",
+    "kind": "brand",
+    "brand": "Borkum Riff",
+    "introducedYear": null,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "Scandinavian Tobacco Groupのブランド。製造工場は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "stg-pipe-brands"
+        ]
+      },
+      "origin": {
+        "text": "スウェーデンで開発されたブランド。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "stg-borkum-history"
+        ]
+      },
+      "history": {
+        "text": "企業の2013年年次報告書では、1960年代に開発されたと説明する。正確な発売年は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "stg-borkum-history"
+        ]
+      },
+      "appearance": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "aroma": {
+        "text": "企業は甘さや着香を特徴として説明する。個別製品によって異なり、第三者による官能評価ではない。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "stg-borkum-history"
+        ]
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "自分のブレンドや道具を記録する人物の設定案。",
+      "rationale": "葉のブランドと器具を別々に選ぶ場面を、記録好きの性格と組み合わせられる。",
+      "counterpoint": "普段は大雑把な人物が、葉の保管場所だけは細かく決めている設定も作れる。",
+      "matches": {
+        "occupation": [
+          "作家",
+          "会社員"
+        ],
+        "personality": [
+          "几帳面"
+        ],
+        "era": [
+          "現代"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "budget": [
+          "中庸"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gaps": {
+        "personality": [
+          "大胆"
+        ],
+        "occupation": [
+          "旅人"
+        ],
+        "aesthetic": [
+          "前衛"
+        ]
+      },
+      "gestures": [
+        "道具と葉の容器を分けて並べる",
+        "銘柄名を手帳に記録する"
+      ],
+      "props": [
+        "葉の容器",
+        "パイプ",
+        "手帳"
+      ]
+    },
+    "tags": [
+      "パイプ用葉",
+      "着香",
+      "記録"
+    ],
+    "palette": [
+      "#9B733D",
+      "#D2BB84",
+      "#3E4A43"
+    ],
+    "relatedIds": [
+      "peterson-system"
+    ],
+    "sources": [
+      {
+        "id": "stg-borkum-history",
+        "title": "Annual Report 2013, p.33",
+        "publisher": "Scandinavian Tobacco Group",
+        "url": "https://www.st-group.com/media/t5ba3cro/stg-annual-report-2013.pdf",
+        "checkedAt": "2026-10-26",
+        "scope": "Borkum Riffの1960年代のスウェーデンでの開発と、企業による風味の説明。"
+      },
+      {
+        "id": "stg-pipe-brands",
+        "title": "Facts and figures",
+        "publisher": "Scandinavian Tobacco Group",
+        "url": "https://www.st-group.com/about-us/facts-and-figures/",
+        "checkedAt": "2026-10-26",
+        "scope": "同社のブランドとしてBorkum Riffが挙げられている。製造工場は特定しない。"
+      }
+    ]
+  },
+  {
+    "id": "rau-kiseru",
+    "name": "羅宇煙管",
+    "originalName": "Rau-kiseru",
+    "category": "kiseru",
+    "subcategory": "竹管を用いる煙管",
+    "kind": "type",
+    "brand": "該当なし",
+    "introducedYear": null,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "日本の煙管の構造として美術館が解説している。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "suntory-kiseru"
+        ]
+      },
+      "history": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "appearance": {
+        "text": "雁首と吸い口に金属を使い、間を竹の管でつなぐ構造。竹の管を羅宇と呼ぶ。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "suntory-kiseru"
+        ]
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "煙管は持ち主の階層や好みに応じて装飾が発達したと、美術館は説明する。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "suntory-kiseru"
+        ]
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "金属と竹の違いを描き分けられる、和装の人物の小道具案。",
+      "rationale": "袋から出す、竹の部分を確かめる、といった動作を手先の細かな人物に割り当てられる。",
+      "counterpoint": "現代的な服装の研究者が、収蔵品として扱う場面にも使える。",
+      "matches": {
+        "occupation": [
+          "職人",
+          "作家"
+        ],
+        "personality": [
+          "寡黙"
+        ],
+        "country": [
+          "日本"
+        ],
+        "clothing": [
+          "和装"
+        ],
+        "aesthetic": [
+          "伝統"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "研究者"
+        ],
+        "era": [
+          "現代"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "aesthetic": [
+          "前衛"
+        ]
+      },
+      "gestures": [
+        "袋から取り出して確認する",
+        "道具を布の上に並べる"
+      ],
+      "props": [
+        "煙管入れ",
+        "布",
+        "煙草盆"
+      ]
+    },
+    "tags": [
+      "和装",
+      "竹",
+      "金工",
+      "煙管"
+    ],
+    "palette": [
+      "#9F8657",
+      "#B7A487",
+      "#4A5146"
+    ],
+    "relatedIds": [
+      "nobe-kiseru",
+      "koiki"
+    ],
+    "sources": [
+      {
+        "id": "suntory-kiseru",
+        "title": "煙管・コレクションデータベース",
+        "publisher": "サントリー美術館",
+        "url": "https://www.suntory.co.jp/sma/collection/data/detail?id=1335",
+        "checkedAt": "2026-10-26",
+        "scope": "一般的な煙管の金属製雁首・吸い口と竹の羅宇、装飾の発達。展示品自体はガラス製。"
+      }
+    ]
+  },
+  {
+    "id": "nobe-kiseru",
+    "name": "延べ煙管",
+    "originalName": "Nobe-kiseru",
+    "category": "kiseru",
+    "subcategory": "全金属製の煙管",
+    "kind": "type",
+    "brand": "該当なし",
+    "introducedYear": null,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "博物館の日本煙管の分類に含まれる。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "liangyi-kiseru"
+        ]
+      },
+      "history": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "appearance": {
+        "text": "全体を金属で作る煙管の区分。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "liangyi-kiseru"
+        ]
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "金属の表面や彫金を描くための小道具案。",
+      "rationale": "竹を挟まない輪郭を、簡潔な道具を好む人物の選択として使える。",
+      "counterpoint": "華美な服装の人物に、装飾のない金属製の道具を持たせる対比が作れる。",
+      "matches": {
+        "occupation": [
+          "職人"
+        ],
+        "personality": [
+          "寡黙"
+        ],
+        "country": [
+          "日本"
+        ],
+        "clothing": [
+          "和装"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "芸術家"
+        ],
+        "personality": [
+          "社交的"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "aesthetic": [
+          "前衛"
+        ]
+      },
+      "gestures": [
+        "表面の細工を確かめる",
+        "携帯用の袋に戻す"
+      ],
+      "props": [
+        "煙管入れ",
+        "布"
+      ]
+    },
+    "tags": [
+      "金工",
+      "煙管",
+      "和装"
+    ],
+    "palette": [
+      "#B8A47B",
+      "#796249",
+      "#343B3F"
+    ],
+    "relatedIds": [
+      "rau-kiseru",
+      "koiki"
+    ],
+    "sources": [
+      {
+        "id": "liangyi-kiseru",
+        "title": "日本煙管",
+        "publisher": "両依蔵博物館",
+        "url": "https://zh.liangyimuseum.com/japanese-kiseru",
+        "checkedAt": "2026-10-26",
+        "scope": "全体を金属で作る延べ煙管の区分。"
+      }
+    ]
+  },
+  {
+    "id": "koiki",
+    "name": "小粋",
+    "originalName": "Koiki",
+    "category": "kiseru",
+    "subcategory": "刻みタバコ",
+    "kind": "product",
+    "brand": "小粋",
+    "introducedYear": 1985,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "jt-kizami-history"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "日本たばこ産業（JT）。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-kizami-history"
+        ]
+      },
+      "origin": {
+        "text": "日本。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-kizami-history"
+        ]
+      },
+      "history": {
+        "text": "1985年末に発売。記事では国産刻みタバコの製造再開として紹介される。現在の製造工場や流通は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-kizami-history"
+        ]
+      },
+      "appearance": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "JTの解説は、刻みタバコの供給と歌舞伎・新派の舞台での使用との関係に触れている。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-kizami-history"
+        ]
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "現代に伝統的な道具を扱う人物や、舞台の小道具係の設定案。",
+      "rationale": "銘柄の登場時期が明確なので、1985年以前の場面と混同しない小道具設定に使える。",
+      "counterpoint": "若い会社員が舞台の手伝いで刻みタバコを知った、といった背景を作れる。",
+      "matches": {
+        "occupation": [
+          "職人",
+          "芸術家"
+        ],
+        "era": [
+          "現代"
+        ],
+        "country": [
+          "日本"
+        ],
+        "clothing": [
+          "和装"
+        ],
+        "aesthetic": [
+          "伝統"
+        ]
+      },
+      "gaps": {
+        "age": [
+          "20代"
+        ],
+        "occupation": [
+          "会社員"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gestures": [
+        "道具と葉を別に保管する",
+        "小道具の名称を確認する"
+      ],
+      "props": [
+        "煙管",
+        "道具袋",
+        "小道具帳"
+      ]
+    },
+    "tags": [
+      "刻み",
+      "舞台",
+      "日本",
+      "伝統"
+    ],
+    "palette": [
+      "#B09A68",
+      "#D7C8A5",
+      "#545244"
+    ],
+    "relatedIds": [
+      "rau-kiseru",
+      "nobe-kiseru",
+      "kikyo-kizami"
+    ],
+    "sources": [
+      {
+        "id": "jt-kizami-history",
+        "title": "其の十 煙草がしとしとすれば雨が降る",
+        "publisher": "日本たばこ産業（JT）",
+        "url": "https://www.jti.co.jp/tobacco/knowledge/society/proverb/10.html",
+        "checkedAt": "2026-10-26",
+        "scope": "1979年のききょう製造中止、1985年末の小粋発売と舞台芸能との関係。記事の現在表現を2026年の製造状況には転用しない。"
+      }
+    ]
+  },
+  {
+    "id": "kikyo-kizami",
+    "name": "ききょう",
+    "originalName": "Kikyo",
+    "category": "kiseru",
+    "subcategory": "刻みタバコ・歴史資料",
+    "kind": "product",
+    "brand": "ききょう",
+    "introducedYear": null,
+    "discontinuedYear": null,
+    "status": "discontinued",
+    "dateSourceIds": [
+      "jt-kizami-history"
+    ],
+    "statusSourceIds": [
+      "jt-kizami-history"
+    ],
+    "facts": {
+      "manufacturer": {
+        "text": "日本専売公社。JTの解説で製造中止当時の事業主体に言及される。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-kizami-history"
+        ]
+      },
+      "origin": {
+        "text": "日本。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-kizami-history"
+        ]
+      },
+      "history": {
+        "text": "1979年に製造中止。初売年と店頭販売の終了日は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-kizami-history"
+        ]
+      },
+      "appearance": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "製造中止によって刻みタバコの利用者や舞台関係者が影響を受けたと、JTの解説は記している。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-kizami-history"
+        ]
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "1979年の製造中止を手がかりにする、昭和の生活や舞台の設定案。",
+      "rationale": "供給の変化を、古い習慣を続ける人物の生活上の出来事として描ける。",
+      "counterpoint": "現代の人物が古い箱を資料として保管する設定なら、現用品と区別できる。",
+      "matches": {
+        "age": [
+          "40代以上"
+        ],
+        "occupation": [
+          "職人",
+          "芸術家"
+        ],
+        "era": [
+          "昭和"
+        ],
+        "country": [
+          "日本"
+        ],
+        "clothing": [
+          "和装"
+        ],
+        "aesthetic": [
+          "伝統"
+        ]
+      },
+      "gaps": {
+        "age": [
+          "20代"
+        ],
+        "occupation": [
+          "研究者"
+        ],
+        "era": [
+          "現代"
+        ],
+        "clothing": [
+          "カジュアル"
+        ]
+      },
+      "gestures": [
+        "古い銘柄名を資料に書き留める",
+        "箱を資料として保管する"
+      ],
+      "props": [
+        "煙管",
+        "資料箱",
+        "写真"
+      ]
+    },
+    "tags": [
+      "刻み",
+      "昭和",
+      "終売",
+      "歴史資料"
+    ],
+    "palette": [
+      "#6F6279",
+      "#C3B7A0",
+      "#414044"
+    ],
+    "relatedIds": [
+      "koiki",
+      "rau-kiseru"
+    ],
+    "sources": [
+      {
+        "id": "jt-kizami-history",
+        "title": "其の十 煙草がしとしとすれば雨が降る",
+        "publisher": "日本たばこ産業（JT）",
+        "url": "https://www.jti.co.jp/tobacco/knowledge/society/proverb/10.html",
+        "checkedAt": "2026-10-26",
+        "scope": "1979年のききょう製造中止、1985年末の小粋発売と舞台芸能との関係。記事の現在表現を2026年の製造状況には転用しない。"
+      }
+    ]
+  }
+]

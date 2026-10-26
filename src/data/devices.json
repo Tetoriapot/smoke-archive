@@ -1,0 +1,1459 @@
+[
+  {
+    "id": "al-fakher-two-apples",
+    "name": "アルファーヘル ツーアップル",
+    "originalName": "Al Fakher Two Apples",
+    "category": "shisha",
+    "subcategory": "シーシャ用フレーバー",
+    "kind": "product",
+    "brand": "Al Fakher",
+    "introducedYear": null,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "history": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "appearance": {
+        "text": "公式紹介には、赤と緑の要素を使った箱や容器が掲載されている。地域・容量による違いがある。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "al-fakher-products"
+        ]
+      },
+      "aroma": {
+        "text": "メーカーはリンゴの風味にアニスのニュアンスを合わせたものと説明している。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "al-fakher-products"
+        ]
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "同席者との会話を描く場面のフレーバー資料。",
+      "rationale": "香りの印象について会話を交わす設定なら、社交的な人物の話題づくりを描ける。",
+      "counterpoint": "寡黙な人物が味の違いだけを詳しく説明する場面にすると、普段との違いを表せる。",
+      "matches": {
+        "age": [
+          "30代",
+          "40代以上"
+        ],
+        "occupation": [
+          "旅人",
+          "芸術家"
+        ],
+        "personality": [
+          "社交的"
+        ],
+        "era": [
+          "現代"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "aesthetic": [
+          "伝統"
+        ]
+      },
+      "gaps": {
+        "personality": [
+          "寡黙"
+        ],
+        "occupation": [
+          "研究者"
+        ]
+      },
+      "gestures": [
+        "同席者の返答を待ってホースを置く",
+        "容器のラベルを示して話題を変える"
+      ],
+      "props": [
+        "水たばこ器具",
+        "個人用マウスピース"
+      ]
+    },
+    "tags": [
+      "シーシャ",
+      "フレーバー",
+      "社交的",
+      "現代"
+    ],
+    "palette": [
+      "#4b272d",
+      "#88703f",
+      "#b2a07b"
+    ],
+    "relatedIds": [
+      "al-fakher-mint",
+      "wookah-mini-smooth-oak"
+    ],
+    "sources": [
+      {
+        "id": "al-fakher-products",
+        "title": "Al Fakher 製品紹介",
+        "publisher": "Al Fakher",
+        "url": "https://www.alfakher.com/",
+        "checkedAt": "2026-10-26",
+        "scope": "Two ApplesとMintの名称、パッケージ、メーカーによる香味の説明。発売年・製造工場・日本での流通は未確認。"
+      }
+    ]
+  },
+  {
+    "id": "al-fakher-mint",
+    "name": "アルファーヘル ミント",
+    "originalName": "Al Fakher Mint",
+    "category": "shisha",
+    "subcategory": "シーシャ用フレーバー",
+    "kind": "product",
+    "brand": "Al Fakher",
+    "introducedYear": null,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "history": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "appearance": {
+        "text": "公式紹介では、緑と黒を使った容器と王冠の図柄が掲載されている。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "al-fakher-products"
+        ]
+      },
+      "aroma": {
+        "text": "メーカーは清涼感を特徴として説明している。個人の感覚や使用条件による差は未確認。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "al-fakher-products"
+        ]
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "決まった香りを選ぶ人物の習慣を描く資料。",
+      "rationale": "毎回同じ銘柄を選ぶという創作設定なら、几帳面な人物の日課として描ける。",
+      "counterpoint": "大胆な芸術家が香りの選択だけは変えない設定にすると、行動の違いを作れる。",
+      "matches": {
+        "age": [
+          "30代",
+          "40代以上"
+        ],
+        "occupation": [
+          "研究者",
+          "会社員"
+        ],
+        "personality": [
+          "几帳面"
+        ],
+        "era": [
+          "現代"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gaps": {
+        "personality": [
+          "大胆"
+        ],
+        "occupation": [
+          "芸術家"
+        ]
+      },
+      "gestures": [
+        "同じ容器の位置を確かめる",
+        "会話中はマウスピースを手元に置く"
+      ],
+      "props": [
+        "水たばこ器具",
+        "フレーバー容器"
+      ]
+    },
+    "tags": [
+      "シーシャ",
+      "フレーバー",
+      "几帳面",
+      "現代"
+    ],
+    "palette": [
+      "#25433d",
+      "#73877a",
+      "#c5b99e"
+    ],
+    "relatedIds": [
+      "al-fakher-two-apples",
+      "kaloud-lotus-i-plus"
+    ],
+    "sources": [
+      {
+        "id": "al-fakher-products",
+        "title": "Al Fakher 製品紹介",
+        "publisher": "Al Fakher",
+        "url": "https://www.alfakher.com/",
+        "checkedAt": "2026-10-26",
+        "scope": "Two ApplesとMintの名称、パッケージ、メーカーによる香味の説明。発売年・製造工場・日本での流通は未確認。"
+      }
+    ]
+  },
+  {
+    "id": "kaloud-lotus-i-plus",
+    "name": "カラウド ロータス I+",
+    "originalName": "Kaloud Lotus I+",
+    "category": "shisha",
+    "subcategory": "シーシャ用熱管理器具",
+    "kind": "product",
+    "brand": "Kaloud",
+    "introducedYear": null,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "history": {
+        "text": "公式説明には初代Lotusを2014年に開発したとある。I+の発売年とは区別し、本項目の登場年は未確認とする。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "kaloud-lotus-plus"
+        ]
+      },
+      "appearance": {
+        "text": "着脱できる蓋と、調節可能な通気孔を備える熱管理器具。シーシャ本体やフレーバーとは別の部品。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "kaloud-lotus-plus"
+        ]
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "手順や道具の状態を気にする人物の小道具。",
+      "rationale": "部品を一つずつ確かめる描写によって、作業を急がない職人の性格を表せる。",
+      "counterpoint": "社交的な人物が手入れの場面だけ無言になる構成にすると、集中する様子を描ける。",
+      "matches": {
+        "age": [
+          "30代",
+          "40代以上"
+        ],
+        "occupation": [
+          "職人",
+          "研究者"
+        ],
+        "personality": [
+          "几帳面"
+        ],
+        "era": [
+          "現代"
+        ],
+        "clothing": [
+          "作業着"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gaps": {
+        "personality": [
+          "社交的"
+        ],
+        "occupation": [
+          "芸術家"
+        ]
+      },
+      "gestures": [
+        "使用前の部品を順に確かめる",
+        "片付ける道具の位置をそろえる"
+      ],
+      "props": [
+        "シーシャ用ボウル",
+        "炭用トング"
+      ]
+    },
+    "tags": [
+      "シーシャ",
+      "器具",
+      "几帳面",
+      "現代"
+    ],
+    "palette": [
+      "#676c6e",
+      "#a9a496",
+      "#343a40"
+    ],
+    "relatedIds": [
+      "wookah-mini-smooth-oak",
+      "al-fakher-mint"
+    ],
+    "sources": [
+      {
+        "id": "kaloud-lotus-plus",
+        "title": "Kaloud Lotus I+ 製品紹介",
+        "publisher": "Kaloud",
+        "url": "https://kaloud.com/collections/all/products/kaloud-lotus-i-1",
+        "checkedAt": "2026-10-26",
+        "scope": "Lotus I+の着脱式の蓋、通気孔、熱管理器具としての構造。初代LotusとI+の発売年は区別して未確認。"
+      }
+    ]
+  },
+  {
+    "id": "wookah-mini-smooth-oak",
+    "name": "ウーカ ミニ スムースオーク",
+    "originalName": "WOOKAH Mini Smooth Oak",
+    "category": "shisha",
+    "subcategory": "水たばこ器具",
+    "kind": "product",
+    "brand": "WOOKAH",
+    "introducedYear": null,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "history": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "appearance": {
+        "text": "MiniシリーズのSmooth Oakモデル。シリーズには木、ガラス、革、ステンレスを使い、本体と容器を接続するQuick Lock Systemを備える。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "wookah-mini"
+        ]
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "メーカーは天然素材と小型の構成を特徴として紹介している。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "wookah-mini"
+        ]
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "木製家具を置く現代の室内に合わせる器具資料。",
+      "rationale": "素材の選び方を室内の家具とそろえることで、美意識を持つ芸術家の生活を描ける。",
+      "counterpoint": "実用一辺倒の会社員が私室では木製品を集める設定にすると、仕事場との違いを示せる。",
+      "matches": {
+        "age": [
+          "30代",
+          "40代以上"
+        ],
+        "occupation": [
+          "芸術家",
+          "経営者"
+        ],
+        "personality": [
+          "内向的"
+        ],
+        "era": [
+          "現代"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "budget": [
+          "裕福"
+        ],
+        "aesthetic": [
+          "伝統",
+          "洗練"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "会社員"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gestures": [
+        "片付ける前に部品を並べる",
+        "会話が終わってからケースを閉じる"
+      ],
+      "props": [
+        "専用バッグ",
+        "個人用マウスピース"
+      ]
+    },
+    "tags": [
+      "シーシャ",
+      "木材",
+      "器具",
+      "現代"
+    ],
+    "palette": [
+      "#866746",
+      "#b79b70",
+      "#353a39"
+    ],
+    "relatedIds": [
+      "kaloud-lotus-i-plus",
+      "al-fakher-two-apples"
+    ],
+    "sources": [
+      {
+        "id": "wookah-mini",
+        "title": "WOOKAH Mini 製品紹介",
+        "publisher": "WOOKAH",
+        "url": "https://mini.wookah.com/",
+        "checkedAt": "2026-10-26",
+        "scope": "Mini Smooth Oakの製品名、Miniシリーズの素材と接続機構。発売年・製造国は未確認。"
+      }
+    ]
+  },
+  {
+    "id": "vaporesso-xros4-mini",
+    "name": "ベイパレッソ クロス4 ミニ",
+    "originalName": "VAPORESSO XROS 4 MINI",
+    "category": "vape",
+    "subcategory": "ポッド型電子タバコ",
+    "kind": "product",
+    "brand": "VAPORESSO",
+    "introducedYear": null,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "history": {
+        "text": "XROS 4と同じ資料に掲載される別機種。XROS MINIやXROS 4とは区別する。発売年は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "vaporesso-xros4-mini-flyer"
+        ]
+      },
+      "appearance": {
+        "text": "公式資料の寸法は107.51×24×14.12mm。交換式ポッドと本体、Type-Cケーブルを組み合わせる構成。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "vaporesso-xros4-mini-flyer"
+        ]
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "携帯品の整理や充電習慣を描くためのデバイス。",
+      "rationale": "小物を決まったポーチに収める描写なら、実用品を選ぶ会社員の性格と結び付けられる。",
+      "counterpoint": "伝統的な服装の職人が電子機器の管理にも細かい設定にすると、外見と持ち物の差を描ける。",
+      "matches": {
+        "age": [
+          "20代",
+          "30代"
+        ],
+        "occupation": [
+          "会社員",
+          "旅人"
+        ],
+        "personality": [
+          "几帳面"
+        ],
+        "era": [
+          "現代"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "budget": [
+          "中庸"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "職人"
+        ],
+        "clothing": [
+          "和装"
+        ],
+        "aesthetic": [
+          "伝統"
+        ]
+      },
+      "gestures": [
+        "充電ケーブルを巻いてポーチに戻す",
+        "外出前に携帯品の数を確かめる"
+      ],
+      "props": [
+        "Type-Cケーブル",
+        "小物用ポーチ"
+      ]
+    },
+    "tags": [
+      "電子デバイス",
+      "ポッド",
+      "実用",
+      "現代"
+    ],
+    "palette": [
+      "#394a59",
+      "#88969d",
+      "#d0b47a"
+    ],
+    "relatedIds": [
+      "uwell-caliburn-g3",
+      "uwell-caliburn-gk3"
+    ],
+    "sources": [
+      {
+        "id": "vaporesso-xros4-mini-flyer",
+        "title": "XROS 4 / XROS 4 MINI 製品資料",
+        "publisher": "VAPORESSO",
+        "url": "https://www.vaporesso.com/hubfs/imgs/downloads/flyer/XROS_4%26XROS_4_MINI-Flyer.pdf",
+        "checkedAt": "2026-10-26",
+        "scope": "XROS 4 MINIの寸法、ポッド、本体、Type-Cケーブル。XROS 4本体とは区別。発売年は未確認。"
+      }
+    ]
+  },
+  {
+    "id": "uwell-caliburn-g3",
+    "name": "ユーウェル カリバーン G3",
+    "originalName": "UWELL CALIBURN G3",
+    "category": "vape",
+    "subcategory": "ポッド型電子タバコ",
+    "kind": "product",
+    "brand": "UWELL",
+    "introducedYear": null,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "history": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "appearance": {
+        "text": "アルミニウム合金の本体にOLED表示と操作ボタンを備える。公式ページには複数仕様があり、地域や版によって寸法などが異なる。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "uwell-caliburn-g3"
+        ]
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "表示を確認する癖を描ける電子デバイス。",
+      "rationale": "表示を読んでから次の動作に移る所作なら、数値を確かめる研究者の性格を表せる。",
+      "counterpoint": "直感で行動する芸術家が機器の記録を細かく残す設定にすると、意外な習慣になる。",
+      "matches": {
+        "age": [
+          "20代",
+          "30代",
+          "40代以上"
+        ],
+        "occupation": [
+          "研究者",
+          "会社員"
+        ],
+        "personality": [
+          "几帳面"
+        ],
+        "era": [
+          "現代"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "芸術家"
+        ],
+        "personality": [
+          "大胆"
+        ]
+      },
+      "gestures": [
+        "会話を止めずに表示へ一度目を向ける",
+        "外出前にポーチの中を確かめる"
+      ],
+      "props": [
+        "充電ケーブル",
+        "予備ポッド用ケース"
+      ]
+    },
+    "tags": [
+      "電子デバイス",
+      "ポッド",
+      "画面付き",
+      "現代"
+    ],
+    "palette": [
+      "#3c414c",
+      "#93877d",
+      "#c4b7a2"
+    ],
+    "relatedIds": [
+      "vaporesso-xros4-mini",
+      "uwell-caliburn-gk3"
+    ],
+    "sources": [
+      {
+        "id": "uwell-caliburn-g3",
+        "title": "CALIBURN G3 製品仕様",
+        "publisher": "UWELL",
+        "url": "https://www.myuwell.com/caliburn/caliburn-g3",
+        "checkedAt": "2026-10-26",
+        "scope": "G3のOLED表示、アルミニウム合金本体、ポッド。地域・版で数値が異なるため単一仕様へ統合しない。"
+      }
+    ]
+  },
+  {
+    "id": "uwell-caliburn-gk3",
+    "name": "ユーウェル カリバーン GK3",
+    "originalName": "UWELL CALIBURN GK3",
+    "category": "vape",
+    "subcategory": "ポッド型電子タバコ",
+    "kind": "product",
+    "brand": "UWELL",
+    "introducedYear": null,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "history": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "appearance": {
+        "text": "74.8×49.2×17.1mmの本体にLCD表示を備える。CALIBURN G3カートリッジに対応するが、G3本体とは別機種。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "uwell-caliburn-gk3"
+        ]
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "メーカーは数字を表示するLCDとレトロな外観を特徴として紹介している。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "uwell-caliburn-gk3"
+        ]
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "数値表示や小型機器に関心を持つ人物の資料。",
+      "rationale": "表示の意匠にこだわる設定なら、工業デザインに関心がある芸術家の持ち物として描ける。",
+      "counterpoint": "寡黙な職人が機器の話だけ長く続ける場面にすると、会話の調子に変化を作れる。",
+      "matches": {
+        "age": [
+          "20代",
+          "30代"
+        ],
+        "occupation": [
+          "芸術家",
+          "研究者"
+        ],
+        "personality": [
+          "大胆"
+        ],
+        "era": [
+          "現代"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "aesthetic": [
+          "前衛"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "職人"
+        ],
+        "personality": [
+          "寡黙"
+        ],
+        "clothing": [
+          "スーツ"
+        ]
+      },
+      "gestures": [
+        "机上の他の機器と並べて置く",
+        "表示へ視線を落として返事を考える"
+      ],
+      "props": [
+        "充電ケーブル",
+        "小物用ポーチ"
+      ]
+    },
+    "tags": [
+      "電子デバイス",
+      "画面付き",
+      "前衛",
+      "現代"
+    ],
+    "palette": [
+      "#6b705d",
+      "#b8ab8d",
+      "#393e40"
+    ],
+    "relatedIds": [
+      "uwell-caliburn-g3",
+      "aspire-nautilus3s"
+    ],
+    "sources": [
+      {
+        "id": "uwell-caliburn-gk3",
+        "title": "CALIBURN GK3 製品仕様",
+        "publisher": "UWELL",
+        "url": "https://www.myuwell.com/caliburn/caliburn-gk3",
+        "checkedAt": "2026-10-26",
+        "scope": "GK3のLCD表示、寸法、G3カートリッジ対応。G3本体とは別製品。"
+      }
+    ]
+  },
+  {
+    "id": "aspire-nautilus3s",
+    "name": "アスパイア ノーチラス 3S",
+    "originalName": "Aspire Nautilus 3S",
+    "category": "vape",
+    "subcategory": "電子タバコ用タンク",
+    "kind": "product",
+    "brand": "Aspire",
+    "introducedYear": null,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "history": {
+        "text": "メーカーはNautilus 3の派生モデルとして紹介している。発売年は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "aspire-nautilus3s"
+        ]
+      },
+      "appearance": {
+        "text": "金属製のハニカムチューブを備えたタンク。空気流量を調節するリングと交換式コイルを持つ。電源本体とは別の部品。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "aspire-nautilus3s"
+        ]
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "部品の造形や整理を人物描写に使うための資料。",
+      "rationale": "交換部品を分類して保管する設定なら、機械を扱う職人の几帳面さを描ける。",
+      "counterpoint": "社交的な経営者が小さな部品の整理だけ自分で行う設定にすると、日常の習慣を具体化できる。",
+      "matches": {
+        "age": [
+          "30代",
+          "40代以上"
+        ],
+        "occupation": [
+          "職人",
+          "研究者"
+        ],
+        "personality": [
+          "几帳面"
+        ],
+        "era": [
+          "現代"
+        ],
+        "clothing": [
+          "作業着"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "経営者"
+        ],
+        "personality": [
+          "社交的"
+        ],
+        "clothing": [
+          "スーツ"
+        ]
+      },
+      "gestures": [
+        "使用していない部品を区分してしまう",
+        "部品表と手元の道具を見比べる"
+      ],
+      "props": [
+        "対応する電源本体",
+        "部品ケース"
+      ]
+    },
+    "tags": [
+      "電子デバイス",
+      "器具",
+      "金属",
+      "現代"
+    ],
+    "palette": [
+      "#5e656a",
+      "#b8b4a9",
+      "#8c7353"
+    ],
+    "relatedIds": [
+      "uwell-caliburn-gk3",
+      "vaporesso-xros4-mini"
+    ],
+    "sources": [
+      {
+        "id": "aspire-nautilus3s",
+        "title": "Nautilus 3S 製品仕様",
+        "publisher": "Aspire",
+        "url": "https://www.aspirecig.com/nautilus-series/nautilus-3s/",
+        "checkedAt": "2026-10-26",
+        "scope": "金属製ハニカムチューブ、交換可能なコイル、空気流量の調節機構。タンク単体であること。"
+      }
+    ]
+  },
+  {
+    "id": "ploom-x",
+    "name": "プルーム・エックス",
+    "originalName": "Ploom X",
+    "category": "heated",
+    "subcategory": "加熱式タバコ用デバイス",
+    "kind": "product",
+    "brand": "Ploom",
+    "introducedYear": 2021,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "jt-ploomx-2021"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "JTとJTIが共同開発。製造工場は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-ploomx-2021"
+        ]
+      },
+      "origin": {
+        "text": "日本のJTとスイスに本社を置くJTIによる共同開発。日本から展開した製品。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-ploomx-2021"
+        ]
+      },
+      "history": {
+        "text": "2021年7月26日から日本で先行販売、同年8月17日に全国発売。Ploom X ADVANCEDとは別機種。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-ploomx-2021"
+        ]
+      },
+      "appearance": {
+        "text": "表面にボタンを設けないアルミニウムの本体。LEDと振動で状態を知らせ、前面パネルを交換できる。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-ploomx-2021"
+        ]
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "充電や携帯品の確認を伴う現代の生活描写。",
+      "rationale": "外出前に機器を確かめる所作を入れると、予定を管理する会社員の日課を描ける。",
+      "counterpoint": "伝統的な道具を扱う職人が携帯品には現代のデバイスを選ぶ設定なら、仕事と私生活の違いを表せる。",
+      "matches": {
+        "age": [
+          "30代",
+          "40代以上"
+        ],
+        "occupation": [
+          "会社員",
+          "経営者"
+        ],
+        "personality": [
+          "几帳面"
+        ],
+        "era": [
+          "現代"
+        ],
+        "country": [
+          "日本"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "職人"
+        ],
+        "clothing": [
+          "和装"
+        ],
+        "aesthetic": [
+          "伝統"
+        ]
+      },
+      "gestures": [
+        "出かける前に充電を確認する",
+        "ポケットの中の道具を机に並べる"
+      ],
+      "props": [
+        "Type-Cケーブル",
+        "収納ケース"
+      ]
+    },
+    "tags": [
+      "加熱式",
+      "電子デバイス",
+      "会社員",
+      "現代"
+    ],
+    "palette": [
+      "#50585d",
+      "#b4b8b5",
+      "#827661"
+    ],
+    "relatedIds": [
+      "iqos-iluma-i",
+      "glo-hyper"
+    ],
+    "sources": [
+      {
+        "id": "jt-ploomx-2021",
+        "title": "JT Group launches Ploom X",
+        "publisher": "JT",
+        "url": "https://www.jt.com/media/news/2021/0715_01.html",
+        "checkedAt": "2026-10-26",
+        "scope": "2021年7月15日発表。日本での先行販売日と全国発売日、JT・JTIの共同開発、外観。2026年の販売状況は未確認。"
+      }
+    ]
+  },
+  {
+    "id": "iqos-iluma-i",
+    "name": "アイコス イルマ i",
+    "originalName": "IQOS ILUMA i",
+    "category": "heated",
+    "subcategory": "加熱式タバコ用デバイス",
+    "kind": "product",
+    "brand": "IQOS",
+    "introducedYear": 2024,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "pmj-ilumai-2024"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "フィリップ モリス ジャパンが日本での発売を発表。製造工場は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "pmj-ilumai-2024"
+        ]
+      },
+      "origin": {
+        "text": "日本で2024年に発売。開発国・製造国は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "pmj-ilumai-2024"
+        ]
+      },
+      "history": {
+        "text": "2024年3月13日から日本で順次発売。ILUMA iシリーズのうち、ILUMA iという個別機種を指す。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "pmj-ilumai-2024"
+        ]
+      },
+      "appearance": {
+        "text": "本機種にはタッチスクリーンを搭載。ILUMA i ONEとは操作機構が異なる。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "pmj-ilumai-2024"
+        ]
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "画面の確認を会話の間として描ける資料。",
+      "rationale": "返答する前に表示へ目を向ける所作なら、考える時間を取る寡黙な会社員を描ける。",
+      "counterpoint": "伝統的な服装の人物がタッチ操作には慣れている設定にすると、外見だけでは分からない生活習慣になる。",
+      "matches": {
+        "age": [
+          "30代",
+          "40代以上"
+        ],
+        "occupation": [
+          "会社員",
+          "経営者"
+        ],
+        "personality": [
+          "寡黙"
+        ],
+        "era": [
+          "現代"
+        ],
+        "country": [
+          "日本"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "aesthetic": [
+          "洗練"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "職人"
+        ],
+        "clothing": [
+          "和装"
+        ],
+        "aesthetic": [
+          "伝統"
+        ]
+      },
+      "gestures": [
+        "表示を見てから返答する",
+        "使わないときはケースの位置をそろえる"
+      ],
+      "props": [
+        "充電器",
+        "収納ケース"
+      ]
+    },
+    "tags": [
+      "加熱式",
+      "電子デバイス",
+      "画面付き",
+      "現代"
+    ],
+    "palette": [
+      "#30434c",
+      "#6f9094",
+      "#b0aa96"
+    ],
+    "relatedIds": [
+      "ploom-x",
+      "glo-hyper"
+    ],
+    "sources": [
+      {
+        "id": "pmj-ilumai-2024",
+        "title": "IQOS ILUMA iシリーズの日本販売を発表",
+        "publisher": "フィリップ モリス ジャパン",
+        "url": "https://www.pmi.com/markets/japan/ja/news/20240313-pmj-pressrelease-iqos-iluma-i-series",
+        "checkedAt": "2026-10-26",
+        "scope": "2024年3月13日発表。日本の発売時期とIQOS ILUMA iのタッチスクリーン。シリーズ名と個別機種を区別。"
+      }
+    ]
+  },
+  {
+    "id": "glo-hyper",
+    "name": "グロー・ハイパー",
+    "originalName": "glo Hyper",
+    "category": "heated",
+    "subcategory": "加熱式タバコ用デバイス",
+    "kind": "product",
+    "brand": "glo",
+    "introducedYear": 2020,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "bat-glohyper-2020"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "British American Tobaccoが自社製品として報告している。製造工場は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "bat-glohyper-2020"
+        ]
+      },
+      "origin": {
+        "text": "日本で2020年4月に発売。開発国・製造国は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "bat-glohyper-2020"
+        ]
+      },
+      "history": {
+        "text": "BATの2020年年次報告書に、日本での同年4月発売と誘導加熱の採用が記載されている。後継のhyper機種とは区別する。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "bat-glohyper-2020"
+        ]
+      },
+      "appearance": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "電子機器を日用品として扱う成人キャラクターの資料。",
+      "rationale": "外出時の持ち物に入れておく設定なら、携帯品を最小限にする旅人の生活描写に使える。",
+      "counterpoint": "道具の外観に強くこだわる芸術家が、この機器は日用品として無造作に扱う設定にすると、好みの範囲を描ける。",
+      "matches": {
+        "age": [
+          "30代",
+          "40代以上"
+        ],
+        "occupation": [
+          "会社員",
+          "旅人"
+        ],
+        "personality": [
+          "寡黙"
+        ],
+        "era": [
+          "現代"
+        ],
+        "country": [
+          "日本"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "芸術家"
+        ],
+        "aesthetic": [
+          "前衛"
+        ],
+        "clothing": [
+          "スーツ"
+        ]
+      },
+      "gestures": [
+        "出発前に持ち物を確かめる",
+        "帰宅してポケットの中身をまとめて置く"
+      ],
+      "props": [
+        "充電ケーブル",
+        "収納ケース"
+      ]
+    },
+    "tags": [
+      "加熱式",
+      "電子デバイス",
+      "実用",
+      "現代"
+    ],
+    "palette": [
+      "#454a43",
+      "#9a9d79",
+      "#b5a27e"
+    ],
+    "relatedIds": [
+      "ploom-x",
+      "iqos-iluma-i"
+    ],
+    "sources": [
+      {
+        "id": "bat-glohyper-2020",
+        "title": "Annual Report 2020: Our Tobacco Heating Products",
+        "publisher": "British American Tobacco",
+        "url": "https://www.bat.com/ar/2020/pdfs/BAT_AR20-F_2020_Our_THP_Products.pdf",
+        "checkedAt": "2026-10-26",
+        "scope": "2020年4月の日本でのglo Hyper発売と誘導加熱。現在の流通・外装仕様は未確認。健康に関する広告表現は根拠として使用しない。"
+      }
+    ]
+  }
+]

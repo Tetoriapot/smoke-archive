@@ -1,0 +1,2410 @@
+[
+  {
+    "id": "seven-stars",
+    "name": "セブンスター",
+    "originalName": "Seven Stars",
+    "category": "cigarette",
+    "subcategory": "紙巻きブランド",
+    "kind": "brand",
+    "brand": "Seven Stars",
+    "introducedYear": 1969,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "jt-history"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "JTが2020年の製品情報を公表。現行の製造拠点は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-seven-2020"
+        ]
+      },
+      "origin": {
+        "text": "日本",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-history"
+        ]
+      },
+      "history": {
+        "text": "1969年発売。国産初のチャコールフィルター採用をJT年表で確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-history"
+        ]
+      },
+      "appearance": {
+        "text": "1969年のパッケージは星小紋を採用。デザインは石堂清。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-seven-design"
+        ]
+      },
+      "aroma": {
+        "text": "JTは2020年の発表で、深い味わいと吸い応えを特徴として説明。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "jt-seven-2020"
+        ]
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "JTは愛称として「セッター」「ブンタ」を紹介。性格や職業との結び付きは未確認。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "jt-seven-2020"
+        ]
+      }
+    },
+    "creative": {
+      "summary": "仕事場と私生活で同じ銘柄を選び続ける人物。",
+      "rationale": "星小紋の意匠を、服や道具の柄と結び付ける演出案。人物の性格を示す実証的な分類ではない。",
+      "counterpoint": "几帳面な研究者が箱の向きだけは気にしない、といった不一致を描ける。",
+      "matches": {
+        "age": [
+          "30代",
+          "40代以上"
+        ],
+        "occupation": [
+          "職人",
+          "探偵"
+        ],
+        "personality": [
+          "寡黙"
+        ],
+        "era": [
+          "昭和",
+          "現代"
+        ],
+        "country": [
+          "日本"
+        ],
+        "clothing": [
+          "作業着"
+        ],
+        "budget": [
+          "中庸"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "研究者"
+        ],
+        "personality": [
+          "几帳面"
+        ],
+        "clothing": [
+          "スーツ"
+        ]
+      },
+      "gestures": [
+        "箱を元の位置へ戻す",
+        "携帯灰皿を使う"
+      ],
+      "props": [
+        "携帯灰皿",
+        "仕事鞄"
+      ]
+    },
+    "tags": [
+      "職人",
+      "探偵",
+      "寡黙",
+      "昭和",
+      "現代",
+      "実用"
+    ],
+    "palette": [
+      "#343A3E",
+      "#E6DFCC",
+      "#A9956B"
+    ],
+    "relatedIds": [
+      "hope-10",
+      "mevius",
+      "camel"
+    ],
+    "sources": [
+      {
+        "id": "jt-history",
+        "title": "Our history",
+        "publisher": "日本たばこ産業",
+        "url": "https://www.jt.com/about/history/index.html",
+        "checkedAt": "2026-10-26",
+        "scope": "発売・改称・登録の年表。現行流通の裏付けには使用しない。"
+      },
+      {
+        "id": "jt-seven-2020",
+        "title": "セブンスター愛称限定パッケージ発表",
+        "publisher": "日本たばこ産業",
+        "url": "https://www.jti.co.jp/news/20200526_01.html",
+        "checkedAt": "2026-10-26",
+        "scope": "2020年の製品仕様と愛称。評判は発表者の説明として扱う。"
+      },
+      {
+        "id": "jt-seven-design",
+        "title": "JT / Seven Stars",
+        "publisher": "東京アドバタイジング",
+        "url": "https://www.to-ad.com/works/jt-seven-stars/",
+        "checkedAt": "2026-10-26",
+        "scope": "制作者による1969年のパッケージ解説。"
+      }
+    ]
+  },
+  {
+    "id": "hope-10",
+    "name": "ホープ（10本入）",
+    "originalName": "HOPE (10)",
+    "category": "cigarette",
+    "subcategory": "フィルター付き紙巻き",
+    "kind": "product",
+    "brand": "HOPE",
+    "introducedYear": 1957,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "jt-hope"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "日本",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-history"
+        ]
+      },
+      "history": {
+        "text": "1957年7月1日発売。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-hope"
+        ]
+      },
+      "appearance": {
+        "text": "10本入り。箱の現行寸法・意匠は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-hope"
+        ]
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "少ない持ち物で働く人物の小道具。",
+      "rationale": "10本入りという単位を、携行品の少なさを描く設定に利用できる。所得や性格との関係を示すものではない。",
+      "counterpoint": "物を多く持つ収集家が、この箱だけは使い切ってから次を出す設定。",
+      "matches": {
+        "age": [
+          "40代以上"
+        ],
+        "occupation": [
+          "職人"
+        ],
+        "personality": [
+          "寡黙"
+        ],
+        "era": [
+          "昭和",
+          "現代"
+        ],
+        "country": [
+          "日本"
+        ],
+        "clothing": [
+          "作業着"
+        ],
+        "budget": [
+          "質素"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "芸術家"
+        ],
+        "personality": [
+          "社交的"
+        ],
+        "aesthetic": [
+          "前衛"
+        ]
+      },
+      "gestures": [
+        "ポケットの中を確かめる",
+        "空箱を捨てる前につぶす"
+      ],
+      "props": [
+        "作業台",
+        "携帯灰皿"
+      ]
+    },
+    "tags": [
+      "職人",
+      "寡黙",
+      "昭和",
+      "現代",
+      "実用"
+    ],
+    "palette": [
+      "#C9C3B1",
+      "#2C4361",
+      "#AA775C"
+    ],
+    "relatedIds": [
+      "seven-stars",
+      "mevius",
+      "camel"
+    ],
+    "sources": [
+      {
+        "id": "jt-history",
+        "title": "Our history",
+        "publisher": "日本たばこ産業",
+        "url": "https://www.jt.com/about/history/index.html",
+        "checkedAt": "2026-10-26",
+        "scope": "発売・改称・登録の年表。現行流通の裏付けには使用しない。"
+      },
+      {
+        "id": "jt-hope",
+        "title": "ホープファミリー",
+        "publisher": "日本たばこ産業",
+        "url": "https://www.jti.co.jp/tobacco/products/hope/index.html",
+        "checkedAt": "2026-10-26",
+        "scope": "ホープ各製品の発売日と本数。価格は収録しない。"
+      }
+    ]
+  },
+  {
+    "id": "mevius",
+    "name": "メビウス",
+    "originalName": "MEVIUS",
+    "category": "cigarette",
+    "subcategory": "紙巻きブランド",
+    "kind": "brand",
+    "brand": "MEVIUS",
+    "introducedYear": 2013,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "jt-history"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "JTが改称と2016年の製品変更を発表。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-mevius-2016"
+        ]
+      },
+      "origin": {
+        "text": "日本。前身のマイルドセブンは1977年に日本で発売。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-history"
+        ]
+      },
+      "history": {
+        "text": "日本では2013年にマイルドセブンから改称。前身の発売は1977年。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-history"
+        ]
+      },
+      "appearance": {
+        "text": "2016年の標準製品の改装では、箱の中央に弧を置く意匠を採用。現在の全製品に共通する仕様ではない。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-mevius-2016"
+        ]
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "生活の決まった手順を持つ現代の人物。",
+      "rationale": "名称が変わっても前の呼び方を使う、という世代や習慣の描写に使える。",
+      "counterpoint": "新しい道具を好む人物が、この名前だけは古い呼び方を残す設定。",
+      "matches": {
+        "age": [
+          "30代",
+          "40代以上"
+        ],
+        "occupation": [
+          "会社員"
+        ],
+        "personality": [
+          "几帳面"
+        ],
+        "era": [
+          "現代"
+        ],
+        "country": [
+          "日本"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "budget": [
+          "中庸"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gaps": {
+        "age": [
+          "20代"
+        ],
+        "occupation": [
+          "芸術家"
+        ],
+        "aesthetic": [
+          "前衛"
+        ]
+      },
+      "gestures": [
+        "出勤用の鞄にしまう",
+        "席を外す前に周囲へ一言伝える"
+      ],
+      "props": [
+        "社員証",
+        "携帯灰皿"
+      ]
+    },
+    "tags": [
+      "会社員",
+      "几帳面",
+      "現代",
+      "実用"
+    ],
+    "palette": [
+      "#264A6B",
+      "#738DA7",
+      "#D8DFE2"
+    ],
+    "relatedIds": [
+      "seven-stars",
+      "hope-10",
+      "camel"
+    ],
+    "sources": [
+      {
+        "id": "jt-history",
+        "title": "Our history",
+        "publisher": "日本たばこ産業",
+        "url": "https://www.jt.com/about/history/index.html",
+        "checkedAt": "2026-10-26",
+        "scope": "発売・改称・登録の年表。現行流通の裏付けには使用しない。"
+      },
+      {
+        "id": "jt-mevius-2016",
+        "title": "Mevius products redesigned in 2016",
+        "publisher": "日本たばこ産業",
+        "url": "https://www.jt.com/media/news/2016/0408_01.html",
+        "checkedAt": "2026-10-26",
+        "scope": "2013年の改称と2016年のパッケージ変更。"
+      }
+    ]
+  },
+  {
+    "id": "camel",
+    "name": "キャメル",
+    "originalName": "Camel",
+    "category": "cigarette",
+    "subcategory": "紙巻きブランド",
+    "kind": "brand",
+    "brand": "Camel",
+    "introducedYear": 1913,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "jt-history"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "米国。R.J. Reynoldsが生んだブランドとしてJT年表に掲載。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-history"
+        ]
+      },
+      "history": {
+        "text": "1913年発売。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-history"
+        ]
+      },
+      "appearance": {
+        "text": "初期ラベルのラクダは、サーカスのヒトコブラクダ「Old Joe」の写真を基にした。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "reynolds-history"
+        ]
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "旅先でも同じ携行品を使う人物。",
+      "rationale": "ラクダの図案を旅行鞄や古い地図と組み合わせる創作案。ブランド利用者の共通像ではない。",
+      "counterpoint": "遠出が苦手な人物が旅行記を読みながら旅道具を集める設定。",
+      "matches": {
+        "age": [
+          "30代"
+        ],
+        "occupation": [
+          "旅人",
+          "探偵"
+        ],
+        "personality": [
+          "大胆"
+        ],
+        "era": [
+          "現代",
+          "昭和"
+        ],
+        "country": [
+          "米国"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "budget": [
+          "中庸"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "研究者"
+        ],
+        "personality": [
+          "内向的"
+        ],
+        "clothing": [
+          "スーツ"
+        ]
+      },
+      "gestures": [
+        "鞄から箱を探す",
+        "未点火の一本を箱へ戻す"
+      ],
+      "props": [
+        "地図",
+        "革の鞄"
+      ]
+    },
+    "tags": [
+      "旅人",
+      "探偵",
+      "大胆",
+      "現代",
+      "昭和",
+      "実用"
+    ],
+    "palette": [
+      "#B79A65",
+      "#71533A",
+      "#314955"
+    ],
+    "relatedIds": [
+      "seven-stars",
+      "hope-10",
+      "mevius"
+    ],
+    "sources": [
+      {
+        "id": "jt-history",
+        "title": "Our history",
+        "publisher": "日本たばこ産業",
+        "url": "https://www.jt.com/about/history/index.html",
+        "checkedAt": "2026-10-26",
+        "scope": "発売・改称・登録の年表。現行流通の裏付けには使用しない。"
+      },
+      {
+        "id": "reynolds-history",
+        "title": "Our History",
+        "publisher": "Reynolds American",
+        "url": "https://www.reynoldsamerican.com/our-history/",
+        "checkedAt": "2026-10-26",
+        "scope": "キャメルの初期ラベルとヒトコブラクダの由来。"
+      }
+    ]
+  },
+  {
+    "id": "winston",
+    "name": "ウィンストン",
+    "originalName": "Winston",
+    "category": "cigarette",
+    "subcategory": "紙巻きブランド",
+    "kind": "brand",
+    "brand": "Winston",
+    "introducedYear": 1954,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "jt-history"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "米国。R.J. Reynoldsが生んだブランドとしてJT年表に掲載。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-history"
+        ]
+      },
+      "history": {
+        "text": "1954年発売。日本のキャビンとキャスターは2015年に同ブランドへ統合。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-history"
+        ]
+      },
+      "appearance": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "馴染みの道具を使い続ける勤め人。",
+      "rationale": "ブランド統合の歴史を、旧名称を覚えている人物の台詞に使える。",
+      "counterpoint": "頻繁に好みを変える人物が、特定の呼び名にはこだわる設定。",
+      "matches": {
+        "age": [
+          "40代以上"
+        ],
+        "occupation": [
+          "会社員",
+          "職人"
+        ],
+        "personality": [
+          "寡黙"
+        ],
+        "era": [
+          "現代",
+          "昭和"
+        ],
+        "country": [
+          "米国",
+          "日本"
+        ],
+        "clothing": [
+          "作業着",
+          "カジュアル"
+        ],
+        "budget": [
+          "中庸"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "芸術家"
+        ],
+        "personality": [
+          "大胆"
+        ],
+        "aesthetic": [
+          "前衛"
+        ]
+      },
+      "gestures": [
+        "旧名称で呼んで言い直す",
+        "灰皿の位置を確認する"
+      ],
+      "props": [
+        "名刺入れ",
+        "携帯灰皿"
+      ]
+    },
+    "tags": [
+      "会社員",
+      "職人",
+      "寡黙",
+      "現代",
+      "昭和",
+      "実用"
+    ],
+    "palette": [
+      "#9E5344",
+      "#D4CAB4",
+      "#383E47"
+    ],
+    "relatedIds": [
+      "seven-stars",
+      "hope-10",
+      "mevius"
+    ],
+    "sources": [
+      {
+        "id": "jt-history",
+        "title": "Our history",
+        "publisher": "日本たばこ産業",
+        "url": "https://www.jt.com/about/history/index.html",
+        "checkedAt": "2026-10-26",
+        "scope": "発売・改称・登録の年表。現行流通の裏付けには使用しない。"
+      }
+    ]
+  },
+  {
+    "id": "salem",
+    "name": "セーラム",
+    "originalName": "Salem",
+    "category": "cigarette",
+    "subcategory": "紙巻きブランド",
+    "kind": "brand",
+    "brand": "Salem",
+    "introducedYear": 1956,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "jt-history"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "history": {
+        "text": "1956年発売をJT年表で確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-history"
+        ]
+      },
+      "appearance": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "1950年代以降の資料を調べる人物設定の候補。",
+      "rationale": "発売年を基準に、時代に存在し得る銘柄候補として選べる。日本での当時の流通は別途確認が必要。",
+      "counterpoint": "伝統的な服装の人物が、身の回りの小物には新しい物を選ぶ設定。",
+      "matches": {
+        "age": [
+          "30代"
+        ],
+        "occupation": [
+          "会社員"
+        ],
+        "personality": [
+          "社交的"
+        ],
+        "era": [
+          "昭和",
+          "現代"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "budget": [
+          "中庸"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "作家"
+        ],
+        "personality": [
+          "寡黙"
+        ],
+        "clothing": [
+          "和装"
+        ]
+      },
+      "gestures": [
+        "話し相手に確認してから席を外す",
+        "箱を鞄へ戻す"
+      ],
+      "props": [
+        "携帯灰皿",
+        "手帳"
+      ]
+    },
+    "tags": [
+      "会社員",
+      "社交的",
+      "昭和",
+      "現代",
+      "実用"
+    ],
+    "palette": [
+      "#53746B",
+      "#C6D1BF",
+      "#38443D"
+    ],
+    "relatedIds": [
+      "seven-stars",
+      "hope-10",
+      "mevius"
+    ],
+    "sources": [
+      {
+        "id": "jt-history",
+        "title": "Our history",
+        "publisher": "日本たばこ産業",
+        "url": "https://www.jt.com/about/history/index.html",
+        "checkedAt": "2026-10-26",
+        "scope": "発売・改称・登録の年表。現行流通の裏付けには使用しない。"
+      }
+    ]
+  },
+  {
+    "id": "silk-cut",
+    "name": "シルクカット",
+    "originalName": "Silk Cut",
+    "category": "cigarette",
+    "subcategory": "紙巻きブランド",
+    "kind": "brand",
+    "brand": "Silk Cut",
+    "introducedYear": 1964,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "jt-history"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "history": {
+        "text": "1964年発売をJT年表で確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-history"
+        ]
+      },
+      "appearance": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "広告史・グラフィックデザインの資料としてV&Aの教材に掲載。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "vam-silk"
+        ]
+      },
+      "advertising": {
+        "text": "V&Aの教材は、1988年のSaatchi and Saatchiによる広告をシュールな表現の事例として扱う。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "vam-silk"
+        ]
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "広告やデザインを仕事にする人物。",
+      "rationale": "美術館資料で扱われるシュールな広告表現を、人物の関心分野と結び付ける案。",
+      "counterpoint": "装飾を嫌う実務家が、広告資料だけは熱心に保存する設定。",
+      "matches": {
+        "age": [
+          "30代",
+          "40代以上"
+        ],
+        "occupation": [
+          "芸術家"
+        ],
+        "personality": [
+          "内向的"
+        ],
+        "era": [
+          "昭和",
+          "現代"
+        ],
+        "country": [
+          "英国"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "budget": [
+          "中庸"
+        ],
+        "aesthetic": [
+          "前衛",
+          "洗練"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "会社員",
+          "職人"
+        ],
+        "personality": [
+          "社交的"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gestures": [
+        "広告の切り抜きを手帳に挟む",
+        "点火せず箱を眺める"
+      ],
+      "props": [
+        "スクラップ帳",
+        "眼鏡"
+      ]
+    },
+    "tags": [
+      "芸術家",
+      "内向的",
+      "昭和",
+      "現代",
+      "前衛",
+      "洗練"
+    ],
+    "palette": [
+      "#70556C",
+      "#C1B7A7",
+      "#353945"
+    ],
+    "relatedIds": [
+      "seven-stars",
+      "hope-10",
+      "mevius"
+    ],
+    "sources": [
+      {
+        "id": "jt-history",
+        "title": "Our history",
+        "publisher": "日本たばこ産業",
+        "url": "https://www.jt.com/about/history/index.html",
+        "checkedAt": "2026-10-26",
+        "scope": "発売・改称・登録の年表。現行流通の裏付けには使用しない。"
+      },
+      {
+        "id": "vam-silk",
+        "title": "Humour and Surrealism in Advertising",
+        "publisher": "Victoria and Albert Museum",
+        "url": "https://media.vam.ac.uk/media/documents/legacy_documents/file_upload/15144_file.pdf",
+        "checkedAt": "2026-10-26",
+        "scope": "1988年のSilk Cut広告を扱う美術館の講義資料。"
+      }
+    ]
+  },
+  {
+    "id": "sobranie",
+    "name": "ソブラニー",
+    "originalName": "Sobranie",
+    "category": "cigarette",
+    "subcategory": "紙巻きブランド",
+    "kind": "brand",
+    "brand": "Sobranie",
+    "introducedYear": null,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "英国・ロンドンで1879年に登録。製造開始地は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-history"
+        ]
+      },
+      "history": {
+        "text": "1879年のロンドンでの登録をJT年表で確認。登録年と初発売年は区別し、発売年は未確認とする。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-history"
+        ]
+      },
+      "appearance": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "小物の来歴を調べる収集家。",
+      "rationale": "ロンドンでの登録という履歴を、人物が資料を集める動機にできる。",
+      "counterpoint": "実用性を優先する職人が、道具の歴史だけは細かく記録する設定。",
+      "matches": {
+        "age": [
+          "40代以上"
+        ],
+        "occupation": [
+          "研究者",
+          "芸術家"
+        ],
+        "personality": [
+          "几帳面"
+        ],
+        "era": [
+          "現代"
+        ],
+        "country": [
+          "英国"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "budget": [
+          "裕福"
+        ],
+        "aesthetic": [
+          "伝統"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "職人"
+        ],
+        "personality": [
+          "大胆"
+        ],
+        "budget": [
+          "質素"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gestures": [
+        "箱の文字をメモへ写す",
+        "ケースを机に整えて置く"
+      ],
+      "props": [
+        "資料ノート",
+        "ケース"
+      ]
+    },
+    "tags": [
+      "研究者",
+      "芸術家",
+      "几帳面",
+      "現代",
+      "伝統"
+    ],
+    "palette": [
+      "#39383B",
+      "#B5A06E",
+      "#8B686F"
+    ],
+    "relatedIds": [
+      "seven-stars",
+      "hope-10",
+      "mevius"
+    ],
+    "sources": [
+      {
+        "id": "jt-history",
+        "title": "Our history",
+        "publisher": "日本たばこ産業",
+        "url": "https://www.jt.com/about/history/index.html",
+        "checkedAt": "2026-10-26",
+        "scope": "発売・改称・登録の年表。現行流通の裏付けには使用しない。"
+      }
+    ]
+  },
+  {
+    "id": "marlboro",
+    "name": "マールボロ",
+    "originalName": "Marlboro",
+    "category": "cigarette",
+    "subcategory": "紙巻きブランド",
+    "kind": "brand",
+    "brand": "Marlboro",
+    "introducedYear": 1924,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "smithsonian-marlboro"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "1924年発売時の企業はPhilip Morris。現行の地域別製造元は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "smithsonian-marlboro"
+        ]
+      },
+      "origin": {
+        "text": "米国市場のブランド史を本項で扱う。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "smithsonian-marlboro"
+        ]
+      },
+      "history": {
+        "text": "スミソニアンは米国での1924年発売を記載。ここでの登場年は米国市場の発売年を指す。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "smithsonian-marlboro"
+        ]
+      },
+      "appearance": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "aroma": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "culture": {
+        "text": "スミソニアンが試作パッケージを所蔵し、ブランドの広告史を解説している。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "smithsonian-marlboro"
+        ]
+      },
+      "advertising": {
+        "text": "初期の女性向け広告から、1950年代には男性像を強調する広告へ移行。カウボーイが代表的な図像になった。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "smithsonian-marlboro"
+        ]
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "広告の人物像を意識して振る舞う人物。",
+      "rationale": "カウボーイを用いた広告史から、自己演出に関心のある人物へ結び付ける案。使用者の実際の性格は示さない。",
+      "counterpoint": "広告の力強い人物像に憧れる、内向的な研究者として描く設定。",
+      "matches": {
+        "age": [
+          "30代"
+        ],
+        "occupation": [
+          "旅人"
+        ],
+        "personality": [
+          "大胆"
+        ],
+        "era": [
+          "昭和",
+          "現代"
+        ],
+        "country": [
+          "米国"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "budget": [
+          "中庸"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "研究者"
+        ],
+        "personality": [
+          "内向的"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "aesthetic": [
+          "伝統"
+        ]
+      },
+      "gestures": [
+        "人前では箱を見せ、独りになるとしまう",
+        "点火しかけて思い直す"
+      ],
+      "props": [
+        "作業ジャケット",
+        "携帯灰皿"
+      ]
+    },
+    "tags": [
+      "旅人",
+      "大胆",
+      "昭和",
+      "現代",
+      "実用"
+    ],
+    "palette": [
+      "#A64E43",
+      "#E5DDCD",
+      "#65523E"
+    ],
+    "relatedIds": [
+      "seven-stars",
+      "hope-10",
+      "mevius"
+    ],
+    "sources": [
+      {
+        "id": "smithsonian-marlboro",
+        "title": "Marlboro Prototype Cigarette Box",
+        "publisher": "National Museum of American History",
+        "url": "https://americanhistory.si.edu/collections/search/object/nmah_1297887",
+        "checkedAt": "2026-10-26",
+        "scope": "米国での1924年発売と広告史。画像は転載しない。"
+      }
+    ]
+  },
+  {
+    "id": "peace",
+    "name": "ピース",
+    "originalName": "Peace",
+    "category": "cigarette",
+    "subcategory": "紙巻きブランド",
+    "kind": "brand",
+    "brand": "Peace",
+    "introducedYear": 1946,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "jt-peace-2020"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "日本。JTの75周年発表で誕生地として明記。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-peace-2020"
+        ]
+      },
+      "history": {
+        "text": "1946年発売。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-peace-2020"
+        ]
+      },
+      "appearance": {
+        "text": "1952年のパッケージをレイモンド・ローウィがデザイン。現行の全製品に共通する意匠は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "jt-showa"
+        ]
+      },
+      "aroma": {
+        "text": "JTはブランドの特徴としてバージニア葉の使用と香りを挙げる。製品ごとの香味差は未確認。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "jt-peace-2020"
+        ]
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "身の回りの意匠に関心を持つ作家。",
+      "rationale": "ローウィによるパッケージの履歴を、デザインや工芸を好む人物の会話へ使える。",
+      "counterpoint": "派手な服装の人物が、日用品には古い意匠を選ぶ設定。",
+      "matches": {
+        "age": [
+          "40代以上"
+        ],
+        "occupation": [
+          "作家",
+          "芸術家"
+        ],
+        "personality": [
+          "内向的"
+        ],
+        "era": [
+          "昭和",
+          "現代"
+        ],
+        "country": [
+          "日本"
+        ],
+        "clothing": [
+          "スーツ",
+          "和装"
+        ],
+        "budget": [
+          "中庸"
+        ],
+        "aesthetic": [
+          "伝統",
+          "洗練"
+        ]
+      },
+      "gaps": {
+        "age": [
+          "20代"
+        ],
+        "personality": [
+          "大胆"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "aesthetic": [
+          "前衛"
+        ]
+      },
+      "gestures": [
+        "箱を机の端にそろえる",
+        "原稿から目を離して手を止める"
+      ],
+      "props": [
+        "原稿用紙",
+        "万年筆"
+      ]
+    },
+    "tags": [
+      "作家",
+      "芸術家",
+      "内向的",
+      "昭和",
+      "現代",
+      "伝統",
+      "洗練"
+    ],
+    "palette": [
+      "#263952",
+      "#B79B5C",
+      "#D5C8AC"
+    ],
+    "relatedIds": [
+      "seven-stars",
+      "hope-10",
+      "mevius"
+    ],
+    "sources": [
+      {
+        "id": "jt-peace-2020",
+        "title": "ピース75周年記念製品の発表",
+        "publisher": "日本たばこ産業",
+        "url": "https://www.jti.co.jp/investors/library/press_releases/20201111_01.html",
+        "checkedAt": "2026-10-26",
+        "scope": "ピースの発売年・発祥地・ブランドの葉の説明。限定製品の仕様をブランド全体へ一般化しない。"
+      },
+      {
+        "id": "jt-showa",
+        "title": "日本の歴史・昭和期",
+        "publisher": "日本たばこ産業",
+        "url": "https://www.jti.co.jp/tobacco/knowledge/society/history/japan/showa/index.html",
+        "checkedAt": "2026-10-26",
+        "scope": "1952年のピースのデザイン変更。"
+      }
+    ]
+  },
+  {
+    "id": "cohiba-cuba",
+    "name": "コイーバ（キューバ）",
+    "originalName": "Cohiba (Cuba)",
+    "category": "cigar",
+    "subcategory": "キューバ葉巻ブランド",
+    "kind": "brand",
+    "brand": "Cohiba (Cuba)",
+    "introducedYear": 1966,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "habanos-cohiba"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "公式の歴史解説はエル・ラギート工場での製造に言及。現在の全製造拠点は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-cohiba"
+        ]
+      },
+      "origin": {
+        "text": "キューバ・ハバナ。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-cohiba"
+        ]
+      },
+      "history": {
+        "text": "1966年創設。政府関係者への贈答用として始まり、1982年に国外へ紹介された。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-cohiba"
+        ]
+      },
+      "appearance": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "aroma": {
+        "text": "公式はClásicaを中程度から強め、1492を中程度と分類。香味の説明であり、健康リスクの大小ではない。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "habanos-cohiba"
+        ]
+      },
+      "culture": {
+        "text": "政府関係者への贈答という出発点を公式が説明。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-cohiba"
+        ]
+      },
+      "advertising": {
+        "text": "公式は独占性や高級性を強調して紹介。編集部による品質評価ではない。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "habanos-cohiba"
+        ]
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "贈答品の由来を重視する経営者。",
+      "rationale": "外交贈答の履歴を、贈り主と受け取り手の関係を描く小道具にできる。富や地位との結び付きは創作上の案。",
+      "counterpoint": "普段は質素な研究者が、贈られた箱を使わず保管している設定。",
+      "matches": {
+        "age": [
+          "40代以上"
+        ],
+        "occupation": [
+          "経営者"
+        ],
+        "personality": [
+          "社交的"
+        ],
+        "era": [
+          "現代"
+        ],
+        "country": [
+          "キューバ"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "budget": [
+          "裕福"
+        ],
+        "aesthetic": [
+          "伝統"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "研究者"
+        ],
+        "personality": [
+          "内向的"
+        ],
+        "budget": [
+          "質素"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gestures": [
+        "贈り主の名を確認する",
+        "箱を開けてから閉じ直す"
+      ],
+      "props": [
+        "贈答カード",
+        "保管箱"
+      ]
+    },
+    "tags": [
+      "経営者",
+      "社交的",
+      "現代",
+      "伝統"
+    ],
+    "palette": [
+      "#C6AA59",
+      "#303030",
+      "#D6C7A6"
+    ],
+    "relatedIds": [
+      "montecristo-cuba",
+      "romeo-julieta-cuba",
+      "partagas-cuba"
+    ],
+    "sources": [
+      {
+        "id": "habanos-cohiba",
+        "title": "Cohiba Brand",
+        "publisher": "Habanos, S.A.",
+        "url": "https://www.habanos.com/en/the-habanos-brands-academia/cohiba-brand/",
+        "checkedAt": "2026-10-26",
+        "scope": "キューバの当該ブランドの歴史と製品説明。香味評価は発表者の説明。"
+      }
+    ]
+  },
+  {
+    "id": "montecristo-cuba",
+    "name": "モンテクリスト（キューバ）",
+    "originalName": "Montecristo (Cuba)",
+    "category": "cigar",
+    "subcategory": "キューバ葉巻ブランド",
+    "kind": "brand",
+    "brand": "Montecristo (Cuba)",
+    "introducedYear": 1935,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "habanos-montecristo"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "キューバ・ハバナ。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-montecristo"
+        ]
+      },
+      "history": {
+        "text": "1935年、ハバナのH. Upmann工場で創設。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-montecristo"
+        ]
+      },
+      "appearance": {
+        "text": "創設時のラインはNo.1からNo.5の5種。以後、大小の形状を追加。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-montecristo"
+        ]
+      },
+      "aroma": {
+        "text": "公式は標準ラインを中程度から強め、Openを中程度と分類。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "habanos-montecristo"
+        ]
+      },
+      "culture": {
+        "text": "名はデュマの小説『モンテ・クリスト伯』に由来。工場の朗読で親しまれた小説を命名に用いたと公式が説明。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-montecristo"
+        ]
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "小説の来歴を話題にする作家。",
+      "rationale": "『モンテ・クリスト伯』に由来する名前を、読書歴や人物同士の会話に使える。",
+      "counterpoint": "本を読まない職人が、名前の由来だけは詳しく知っている設定。",
+      "matches": {
+        "age": [
+          "30代",
+          "40代以上"
+        ],
+        "occupation": [
+          "作家"
+        ],
+        "personality": [
+          "内向的"
+        ],
+        "era": [
+          "昭和",
+          "現代"
+        ],
+        "country": [
+          "キューバ"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "budget": [
+          "裕福"
+        ],
+        "aesthetic": [
+          "伝統"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "職人"
+        ],
+        "personality": [
+          "社交的"
+        ],
+        "clothing": [
+          "作業着"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gestures": [
+        "書名と箱の名を見比べる",
+        "会話の途中で手を止める"
+      ],
+      "props": [
+        "小説",
+        "葉巻ケース"
+      ]
+    },
+    "tags": [
+      "作家",
+      "内向的",
+      "昭和",
+      "現代",
+      "伝統"
+    ],
+    "palette": [
+      "#72563B",
+      "#BCA06A",
+      "#DCD0B2"
+    ],
+    "relatedIds": [
+      "cohiba-cuba",
+      "romeo-julieta-cuba",
+      "partagas-cuba"
+    ],
+    "sources": [
+      {
+        "id": "habanos-montecristo",
+        "title": "Montecristo Brand",
+        "publisher": "Habanos, S.A.",
+        "url": "https://www.habanos.com/en/the-habanos-brands-academia/montecristo-brand/",
+        "checkedAt": "2026-10-26",
+        "scope": "キューバの当該ブランドの歴史と製品説明。香味評価は発表者の説明。"
+      }
+    ]
+  },
+  {
+    "id": "romeo-julieta-cuba",
+    "name": "ロメオ・イ・フリエタ（キューバ）",
+    "originalName": "Romeo y Julieta (Cuba)",
+    "category": "cigar",
+    "subcategory": "キューバ葉巻ブランド",
+    "kind": "brand",
+    "brand": "Romeo y Julieta (Cuba)",
+    "introducedYear": 1875,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "habanos-romeo-y-julieta"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "キューバのHabanosブランドとして創設。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-romeo-y-julieta"
+        ]
+      },
+      "history": {
+        "text": "1875年創設。1946年のチャーチルのハバナ訪問とChurchillsの名称を公式が関連付けて説明。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-romeo-y-julieta"
+        ]
+      },
+      "appearance": {
+        "text": "形状は複数。2020年のLínea de Oroでは赤く染めたシカモア材の箱を採用。ブランド全体の仕様ではない。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-romeo-y-julieta"
+        ]
+      },
+      "aroma": {
+        "text": "公式は標準の香味を中程度、Línea de Oroを中程度から強めと説明。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "habanos-romeo-y-julieta"
+        ]
+      },
+      "culture": {
+        "text": "名前はシェイクスピアの『ロミオとジュリエット』に由来。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-romeo-y-julieta"
+        ]
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "会話で文学や歴史の逸話を引く人物。",
+      "rationale": "シェイクスピア作品に由来する名前を、人物の教養や記憶違いを描く会話に利用できる。",
+      "counterpoint": "寡黙な職人が、贈り物を選んだ理由だけは長く説明する設定。",
+      "matches": {
+        "age": [
+          "40代以上"
+        ],
+        "occupation": [
+          "作家",
+          "経営者"
+        ],
+        "personality": [
+          "社交的"
+        ],
+        "era": [
+          "昭和",
+          "現代",
+          "19世紀"
+        ],
+        "country": [
+          "キューバ",
+          "英国"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "budget": [
+          "裕福"
+        ],
+        "aesthetic": [
+          "伝統"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "職人"
+        ],
+        "personality": [
+          "寡黙"
+        ],
+        "clothing": [
+          "作業着"
+        ],
+        "aesthetic": [
+          "実用"
+        ]
+      },
+      "gestures": [
+        "相手の反応を見てから話を続ける",
+        "ケースを渡しかけて引く"
+      ],
+      "props": [
+        "舞台のプログラム",
+        "葉巻ケース"
+      ]
+    },
+    "tags": [
+      "作家",
+      "経営者",
+      "社交的",
+      "昭和",
+      "現代",
+      "19世紀",
+      "伝統"
+    ],
+    "palette": [
+      "#934C46",
+      "#B69B61",
+      "#D9CBA9"
+    ],
+    "relatedIds": [
+      "cohiba-cuba",
+      "montecristo-cuba",
+      "partagas-cuba"
+    ],
+    "sources": [
+      {
+        "id": "habanos-romeo-y-julieta",
+        "title": "Romeo y Julieta Brand",
+        "publisher": "Habanos, S.A.",
+        "url": "https://www.habanos.com/en/the-habanos-brands-academia/romeo-y-julieta-brand/",
+        "checkedAt": "2026-10-26",
+        "scope": "キューバの当該ブランドの歴史と製品説明。香味評価は発表者の説明。"
+      }
+    ]
+  },
+  {
+    "id": "partagas-cuba",
+    "name": "パルタガス（キューバ）",
+    "originalName": "Partagás (Cuba)",
+    "category": "cigar",
+    "subcategory": "キューバ葉巻ブランド",
+    "kind": "brand",
+    "brand": "Partagás (Cuba)",
+    "introducedYear": 1845,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "habanos-partagas"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "公式の歴史解説はパルタガス工場に言及。各製品の現行製造拠点は未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-partagas"
+        ]
+      },
+      "origin": {
+        "text": "キューバ・ハバナ。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-partagas"
+        ]
+      },
+      "history": {
+        "text": "ハイメ・パルタガスが1845年にハバナで工場を創設。以来、同名ブランドを製造したと公式が説明。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-partagas"
+        ]
+      },
+      "appearance": {
+        "text": "複数の形状・寸法を持つブランド。ピラミッド形のSeries P No.2は2005年登場。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-partagas"
+        ]
+      },
+      "aroma": {
+        "text": "公式は強い風味を特徴として説明。健康上の強弱を意味しない。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "habanos-partagas"
+        ]
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "仕事の段取りを自分で決める人物。",
+      "rationale": "工場に由来する履歴を、製造や手仕事への関心と結び付ける案。香味から性格を判断するものではない。",
+      "counterpoint": "大胆に見える経営者が、道具を片付ける順番には迷う設定。",
+      "matches": {
+        "age": [
+          "40代以上"
+        ],
+        "occupation": [
+          "経営者",
+          "職人"
+        ],
+        "personality": [
+          "大胆"
+        ],
+        "era": [
+          "昭和",
+          "現代",
+          "19世紀"
+        ],
+        "country": [
+          "キューバ"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "budget": [
+          "裕福"
+        ],
+        "aesthetic": [
+          "伝統"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "研究者"
+        ],
+        "personality": [
+          "内向的"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "aesthetic": [
+          "前衛"
+        ]
+      },
+      "gestures": [
+        "会話前に道具を並べる",
+        "途中で葉巻を置く"
+      ],
+      "props": [
+        "葉巻カッター",
+        "灰皿"
+      ]
+    },
+    "tags": [
+      "経営者",
+      "職人",
+      "大胆",
+      "昭和",
+      "現代",
+      "19世紀",
+      "伝統"
+    ],
+    "palette": [
+      "#8B4535",
+      "#B28A4F",
+      "#3C302B"
+    ],
+    "relatedIds": [
+      "cohiba-cuba",
+      "montecristo-cuba",
+      "romeo-julieta-cuba"
+    ],
+    "sources": [
+      {
+        "id": "habanos-partagas",
+        "title": "Partagás Brand",
+        "publisher": "Habanos, S.A.",
+        "url": "https://www.habanos.com/en/the-habanos-brands-academia/partagas-brand/",
+        "checkedAt": "2026-10-26",
+        "scope": "キューバの当該ブランドの歴史と製品説明。香味評価は発表者の説明。"
+      }
+    ]
+  },
+  {
+    "id": "h-upmann-cuba",
+    "name": "H.アップマン（キューバ）",
+    "originalName": "H. Upmann (Cuba)",
+    "category": "cigar",
+    "subcategory": "キューバ葉巻ブランド",
+    "kind": "brand",
+    "brand": "H. Upmann (Cuba)",
+    "introducedYear": 1844,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [
+      "habanos-h-upmann"
+    ],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "キューバ・ハバナ。創設者はドイツ出身。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-h-upmann"
+        ]
+      },
+      "history": {
+        "text": "1844年、ドイツ人銀行家ヘルマン・アップマンがハバナで銀行と葉巻工場を設立。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-h-upmann"
+        ]
+      },
+      "appearance": {
+        "text": "箱には19世紀の国際博覧会で得たメダルを表す意匠がある。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-h-upmann"
+        ]
+      },
+      "aroma": {
+        "text": "公式は軽めから中程度の風味と説明。健康リスクの小ささを意味しない。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "habanos-h-upmann"
+        ]
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "来歴を確認して物を選ぶ実務家。",
+      "rationale": "創設者が銀行家だった履歴を、帳簿や商取引を扱う人物の関心と結び付ける案。",
+      "counterpoint": "前衛的な芸術家が、贈答品の受け渡しだけは細かく記録する設定。",
+      "matches": {
+        "age": [
+          "40代以上"
+        ],
+        "occupation": [
+          "経営者",
+          "会社員"
+        ],
+        "personality": [
+          "几帳面"
+        ],
+        "era": [
+          "昭和",
+          "現代",
+          "19世紀"
+        ],
+        "country": [
+          "キューバ"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "budget": [
+          "裕福"
+        ],
+        "aesthetic": [
+          "伝統",
+          "洗練"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "芸術家"
+        ],
+        "personality": [
+          "大胆"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "aesthetic": [
+          "前衛"
+        ]
+      },
+      "gestures": [
+        "箱の銘を確認する",
+        "使った道具をしまう"
+      ],
+      "props": [
+        "帳簿",
+        "葉巻ケース"
+      ]
+    },
+    "tags": [
+      "経営者",
+      "会社員",
+      "几帳面",
+      "昭和",
+      "現代",
+      "19世紀",
+      "伝統",
+      "洗練"
+    ],
+    "palette": [
+      "#8D614B",
+      "#B8A17D",
+      "#DAD0B7"
+    ],
+    "relatedIds": [
+      "cohiba-cuba",
+      "montecristo-cuba",
+      "romeo-julieta-cuba"
+    ],
+    "sources": [
+      {
+        "id": "habanos-h-upmann",
+        "title": "H. Upmann Brand",
+        "publisher": "Habanos, S.A.",
+        "url": "https://www.habanos.com/en/the-habanos-brands-academia/h-upmann-brand/",
+        "checkedAt": "2026-10-26",
+        "scope": "キューバの当該ブランドの歴史と製品説明。香味評価は発表者の説明。"
+      }
+    ]
+  },
+  {
+    "id": "hoyo-monterrey-cuba",
+    "name": "オヨ・デ・モンテレイ（キューバ）",
+    "originalName": "Hoyo de Monterrey (Cuba)",
+    "category": "cigar",
+    "subcategory": "キューバ葉巻ブランド",
+    "kind": "brand",
+    "brand": "Hoyo de Monterrey (Cuba)",
+    "introducedYear": null,
+    "discontinuedYear": null,
+    "status": "unknown",
+    "dateSourceIds": [],
+    "statusSourceIds": [],
+    "facts": {
+      "manufacturer": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "origin": {
+        "text": "キューバ・サン・フアン・イ・マルティネスの同名農園。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-hoyo-de-monterrey"
+        ]
+      },
+      "history": {
+        "text": "同名農園に由来するブランド。農園の門には1860年の銘があるが、ブランドの初発売年は本項では未確認。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-hoyo-de-monterrey"
+        ]
+      },
+      "appearance": {
+        "text": "複数の形状がある。Petit Robustosは長さ102mm・リングゲージ50の型として2004年に追加。",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "habanos-hoyo-de-monterrey"
+        ]
+      },
+      "aroma": {
+        "text": "公式の標準分類は軽めの風味。健康リスクが低いという意味ではない。",
+        "confidence": "attributed",
+        "sourceIds": [
+          "habanos-hoyo-de-monterrey"
+        ]
+      },
+      "culture": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "advertising": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      },
+      "japanImage": {
+        "text": "未確認",
+        "confidence": "unverified",
+        "sourceIds": []
+      }
+    },
+    "creative": {
+      "summary": "産地や地名を調べる研究者。",
+      "rationale": "農園に由来する名前を、地理や土地の記憶に関心がある人物の設定へ使える。",
+      "counterpoint": "都市生活を好む芸術家が、農園名を地図で調べ続ける設定。",
+      "matches": {
+        "age": [
+          "30代",
+          "40代以上"
+        ],
+        "occupation": [
+          "研究者",
+          "旅人"
+        ],
+        "personality": [
+          "几帳面"
+        ],
+        "era": [
+          "現代"
+        ],
+        "country": [
+          "キューバ"
+        ],
+        "clothing": [
+          "カジュアル"
+        ],
+        "budget": [
+          "中庸"
+        ],
+        "aesthetic": [
+          "伝統"
+        ]
+      },
+      "gaps": {
+        "occupation": [
+          "芸術家"
+        ],
+        "personality": [
+          "社交的"
+        ],
+        "clothing": [
+          "スーツ"
+        ],
+        "aesthetic": [
+          "前衛"
+        ]
+      },
+      "gestures": [
+        "地図上で産地を指す",
+        "箱を開けずに銘を読む"
+      ],
+      "props": [
+        "地図",
+        "資料ノート"
+      ]
+    },
+    "tags": [
+      "研究者",
+      "旅人",
+      "几帳面",
+      "現代",
+      "伝統"
+    ],
+    "palette": [
+      "#795A46",
+      "#B9A37A",
+      "#56644D"
+    ],
+    "relatedIds": [
+      "cohiba-cuba",
+      "montecristo-cuba",
+      "romeo-julieta-cuba"
+    ],
+    "sources": [
+      {
+        "id": "habanos-hoyo-de-monterrey",
+        "title": "Hoyo de Monterrey Brand",
+        "publisher": "Habanos, S.A.",
+        "url": "https://www.habanos.com/en/the-habanos-brands-academia/hoyo-de-monterrey-brand/",
+        "checkedAt": "2026-10-26",
+        "scope": "キューバの当該ブランドの歴史と製品説明。香味評価は発表者の説明。"
+      }
+    ]
+  }
+]
