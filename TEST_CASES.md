@@ -27,6 +27,8 @@
 
 表示モードの不正な保存値と読み書き拒否は自動テストで確認しています。全49件のテスト、lint、型検査、本番ビルドが成功しました。追加の画面記録は`docs/screenshots/header-*.png`です。
 
+[GitHub Actionsの公開処理](https://github.com/Tetoriapot/smoke-archive/actions/runs/40875006767)でビルド・配信の成功を確認しました。[公開URL](https://tetoriapot.github.io/smoke-archive/)は認証なしでHTTP 200を返し、ブラウザーでも更新情報・Helpの開閉、ライトモードへの切り替えと再読み込み後の保持を確認しています。公開画面の記録は`docs/screenshots/github-pages.png`です。
+
 ## ブラウザー操作の確認
 
 ローカルプレビューで、次の操作を確認しました。
