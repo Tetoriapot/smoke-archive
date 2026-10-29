@@ -1,0 +1,23 @@
+/* Existing colors remain the dark palette. Light mode replaces color roles only. */
+:root {
+  color-scheme: dark;
+}
+:root[data-theme="light"] {
+  color-scheme: light;
+  --theme-bg: #f5f1e8;
+  --theme-sidebar: #eae4d7;
+  --theme-surface: #fffcf5;
+  --theme-art: #e9e1d1;
+  --theme-input: #fffdf9;
+  --theme-text: #282d2c;
+  --theme-muted: #555c57;
+  --theme-accent: #765522;
+  --theme-border: #c8c0af;
+  --theme-border-strong: #8b6b35;
+  --theme-border-subtle: #a88b5440;
+  --theme-tint: #9b78330e;
+  --theme-danger: #8a342c;
+  --theme-danger-bg: #fcebe3;
+  --theme-success: #31573c;
+  --theme-success-bg: #e6efe0;
+}

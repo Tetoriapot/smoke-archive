@@ -1,4 +1,4 @@
-import { useEffect, useRef } from "react";
+import { useId, useLayoutEffect, useRef } from "react";
 import type { ReactNode } from "react";
 import {
   ArrowUpRight,
@@ -147,11 +147,15 @@ export function Modal({
   children: ReactNode;
 }) {
   const ref = useRef<HTMLDialogElement>(null);
-  useEffect(() => {
+  const titleId = useId();
+  useLayoutEffect(() => {
     const dialog = ref.current!;
+    const previousFocus = document.activeElement;
     dialog.showModal();
     return () => {
       dialog.close();
+      if (previousFocus instanceof HTMLElement && previousFocus.isConnected)
+        previousFocus.focus({ preventScroll: true });
     };
   }, []);
   return (
@@ -162,10 +166,10 @@ export function Modal({
         e.preventDefault();
         onClose();
       }}
-      aria-labelledby="modal-title"
+      aria-labelledby={titleId}
     >
       <div className="heading-row">
-        <h2 id="modal-title">{title}</h2>
+        <h2 id={titleId}>{title}</h2>
         <button
           type="button"
           className="icon-button"

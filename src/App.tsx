@@ -24,6 +24,7 @@ import { parseNotebook } from "./lib/notebook";
 import { download } from "./lib/export";
 import { toggleCompare } from "./lib/catalog";
 import { Modal } from "./components/Common";
+import { HeaderTools } from "./components/HeaderTools";
 import { Catalog } from "./pages/Catalog";
 import { Detail } from "./pages/Detail";
 import { Match } from "./pages/Match";
@@ -246,10 +247,11 @@ export default function App() {
           </div>
           <div className="topbar-right">
             <span className="adult-label">20+ 創作資料</span>
-            <a href="#/sources">
+            <a href="#/sources" aria-label="出典と編集方針">
               <ShieldCheck size={15} />
               <span>出典と編集方針</span>
             </a>
+            <HeaderTools notify={notify} />
           </div>
         </header>
         <main id="main-content" ref={mainRef} tabIndex={-1}>

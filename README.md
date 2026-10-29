@@ -33,6 +33,8 @@ pnpm preview
 
 ## 基本操作
 
+右上の「更新情報」で機能の更新履歴、「Help」で操作方法を確認できます。ダイアログは閉じるボタンかEscapeキーで閉じます。太陽・月のボタンには切り替え先のモードを表示し、ライト／ダークを切り替えます。初期表示はダークモードで、選んだモードは同じブラウザーに保存されます。スマートフォンでも3つの操作を表示します。
+
 図鑑では、日本語名・原語名・本文・タグを検索できます。全角英数は半角相当に、カタカナはひらがな相当に変換して検索します。空白区切りの検索語と複数タグは、すべて一致する資料を表示します。「絞り込み」では、基準年、現行／終売／未確認、すべてのタグを指定できます。ランダム表示と資料出力には、表示中の検索結果を使います。
 
 詳細画面では、説明ごとに「出典で確認」「出典側の説明」「未確認」を示します。人物像、職業、服装、所作、配色は創作上の提案です。実際の利用者の性格や社会共通の評価を意味しません。
@@ -53,6 +55,9 @@ pnpm preview
 | --- | --- |
 | `smoke-archive:favorites:v1` | 資料IDの配列 |
 | `smoke-archive:notebook:v1` | バージョン番号と人物設定の配列 |
+| `smoke-archive:theme:v1` | JSON文字列の`"dark"`または`"light"` |
+
+表示モードの保存に失敗した場合は、現在の画面だけ切り替えてエラーを表示します。保存値を読み出せない場合はダークモードで起動します。表示モードの切り替えは、設定帳やお気に入りの保存データを変更しません。
 
 ## インポート・エクスポート
 
@@ -76,11 +81,13 @@ pnpm preview
 
 ## 静的ホスティング
 
+[GitHub Pages版](https://tetoriapot.github.io/smoke-archive/)と[公開リポジトリ](https://github.com/Tetoriapot/smoke-archive)を使用します。`.github/workflows/pages.yml`で、`main`へのpush時に依存関係のインストール、lint、テスト、型検査、本番ビルドを行い、成功した`dist/`を配信します。GitHubのSettings → Pages → SourceはGitHub Actionsを選択します。Actions画面から手動実行もできます。
+
 `dist/`の内容をGitHub Pagesなどの静的サーバーに配置できます。Viteの`base`は`./`、画面の切り替えはハッシュURLを使うため、リポジトリ名を含むサブパスや詳細ページの再読み込みに対応します。サーバーでのURL書き換えは不要です。`index.html`をファイルとして直接開くのではなく、HTTPサーバーから配信してください。
 
 Sitesの配信先は[SMOKE ARCHIVE](https://smoke-archive.tetoriapot.chatgpt.site)です。アクセス範囲は所有者本人に限定しています。配信設定は`.openai/hosting.json`で管理します。
 
-ローカル版とSites版はURLが異なるため、ブラウザー内の設定帳やお気に入りは共有されません。人物設定はJSONまたはMarkdownで移せます。
+ローカル版・Sites版・GitHub Pages版はURLが異なるため、ブラウザー内の設定帳やお気に入りは共有されません。人物設定は移行元でJSONまたはMarkdownを書き出し、移行先の設定帳で読み込むと移せます。お気に入りと表示モードは移行先で設定してください。今回の更新先はGitHub Pagesです。Sites版の内容は自動では更新されません。
 
 ## ディレクトリ
 
@@ -92,6 +99,11 @@ Sitesの配信先は[SMOKE ARCHIVE](https://smoke-archive.tetoriapot.chatgpt.sit
 | `src/lib/` | 検索、逆引き、保存、入出力とテスト |
 | `src/types.ts` | データ型 |
 | `src/styles.css` | Tailwindの読み込みと画面スタイル |
+| `src/theme.css` | ライトモードの配色 |
+| `src/data/updates.json` | 日付・バージョン・変更点を含む更新履歴 |
+| `src/data/help.json` | Helpの操作説明 |
 | `docs/DATA_GUIDE.md` | 資料を追加する手順 |
 
 データを追加するときは[入力ガイド](docs/DATA_GUIDE.md)と[データ仕様](DATA_SCHEMA.md)を確認し、出典検証とテストを実施してください。
+
+機能を更新するときは`src/data/updates.json`の先頭に実際の更新日・バージョン・変更点を追加し、`package.json`のバージョンを合わせます。更新履歴の日付と、資料の出典確認日は別に管理します。ヘルプは`src/data/help.json`、ライトモードの配色は`src/theme.css`で変更できます。ダークモードは`src/styles.css`の既存色を使います。

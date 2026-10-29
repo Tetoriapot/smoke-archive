@@ -125,6 +125,7 @@ export const confidenceLabels = {
   unverified: "未確認",
 };
 export const storageKeys = {
+  theme: "smoke-archive:theme:v1",
   favorites: "smoke-archive:favorites:v1",
   notebook: "smoke-archive:notebook:v1",
 };
